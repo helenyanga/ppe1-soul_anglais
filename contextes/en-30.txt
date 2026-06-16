@@ -1,0 +1,1004 @@
+    1. Home
+
+Soul
+
+   DOI
+--
+   Paul O’Callaghan
+
+   I. Introduction - II. Human Soul and the Cosmic Soul in Early Religions
+   - III. The Human Soul as an Individual Substance: Plato and Aristotle.
+   1. Plato's Understanding of the Soul. 2. Aristotle's Understanding of
+   the Soul. - IV.The Human Soul in Sacred Scripture. 1. Terminology. 2.
+   "In the Image and Likeness of God" . - V. The Soul in Christian
+   Theology, from the Early centuries to the Middle Ages. 1. The Fathers
+   of the Church. 2. The Debate on the Nature of the Soul in Mediaeval
+   Thought and the Contribution of Thomas Aquinas. - VI. The Human Soul
+   and Subjectivity in Modern Philosophy. 1. Radical Dualism and the
+   Supremacy of the Soul. 2. The Soul and the Self as a Product of Matter.
+   - VII. The Soul in Modern Science: Evolutionism and the Mind-Brain
+   Problem. 1. Evolutionism and Hominization. 2. The Mind-Body
+   relationship. - VIII. The Human Soul between Theology and Science - IX.
+   Concluding Reflections: is the Human Soul an "Action" or a "Substance"?
+
+I. Introduction
+
+   Etymologically the Greek term psyche, "soul", derives, according to
+   Plato, from the Greek anapnein, "to breathe," or anapsychon,
+   "refreshing" (cf. Cratylus, 399e). Aristotle finds the root of the
+--
+   "throat." The Latin term anima (Fr. âme; Sp. alma) derives either from
+   the Greek anaigma, "without blood," or more likely from anemos "wind,"
+   or "breath." The German form Seele and the English "soul" from the Old
+   German saiwolò, is probably of the same origin as the Greek aiolos,
+   "mobile," which designates a self-moving principle. The Sanskrit term
+--
+   modern German as atmen, "to breathe."
+
+   The term "soul," in its different forms and expressions, is to be found
+   in virtually every period of history, every civilization, every
+   philosophical anthropology, every religious understanding (cf. Eliade,
+   1987). It is, then, a concept that crosses human thought and experience
+   of all the ages. Nonetheless, philosophers have always been aware of
+   the difficulty of speaking about the soul in rigorous terms. Thomas
+   Aquinas states that "It is very difficult to know what soul is"
+   (cognoscere quid sit anima difficillimum est, De Veritate, q. 10, a. 8,
+   ad 8^um), and affirms that to know the soul "requires a proper and
+   careful investigation" (requiritur diligens et subtilis inquisitio,
+   Summa Theologiae, I, q. 87, a. 1). Two principal yet clearly opposed
+   understandings of the human soul are to be found throughout the history
+   of philosophy: the so-called "spiritualist" position (Pythagoras,
+   Plato, Plotinus, Augustine, Descartes, Leibniz, etc.), and the
+--
+   Scientific discourse in recent centuries has generally become
+   circumspect in speaking of the existence and attributes of a human
+   "soul," understood as a kind of invisible, immaterial, unifying element
+   at the core of the human being. The development of physics, chemistry,
+   biochemistry, biology and experimental psychology has witnessed if not
+--
+   studying the so-called "mind-body problem."
+
+II. Human Soul and the Cosmic Soul in Early Religions
+
+   Among primitive peoples the term "soul" is spoken of for the most part
+   in cosmological terms, that is within an attempt to understand the
+   unity of the universe (cf. Lévy-Bruhl, 1927; Rohde, 1891). However
+   contrary to the positions of 19th century authors (cf. Tylor, 1871;
+   Zeller, 1883, pp. 30-33), it would seem that Presocratic reflection on
+   the human soul is not driven primarily by our understanding of the
+   cosmos, but rather by that of the relationship between the Divinity and
+   humans (cf. Joël, 1906; Marett, 1929). In other words, primitive
+   understandings of the soul are religious and ethical rather than
+   cosmological and scientific. That is to say, the Presocratics look on
+   the soul not primarily in physical and cosmological terms, but in
+   anthropological, intuitive and mystical ones. The notion of "soul" as
+   equivalent to "fire" or "breath" is common among many peoples;
+   understandably, death ensues and expresses the soul's flight or
+   absence. Greek philosophers of the naturalistic school such as
+   Diogenes, Anaximander and Anaximines identified the soul with "air"
+   and  "breath." For Heraclitus, the soul is subtle and deep, and best
+   described in terms of fire. For atomistic materialists such as
+   Democritus, Epicurus and the Stoics, the soul is composed of refined
+   and mobile atoms, and is mortal at an individual level. Yet it is an
+   element of the living organism of the cosmos. The earliest expressions
+--
+   between breath and consciousness, brought to completion by the Orphics,
+   is what made it possible for the Presocratics to speak of the
+   transmigration of souls, and as a result of the survival, independence
+   and immortality of the human soul, which comes to be considered fully
+   itself only when dreaming, or at the moment of death.
+
+   The idea of the individual conscious human soul (Gr. thymos) as the
+   direct expression and presence of the "in-forming" power of the common,
+   unconscious, cosmic soul (Gr. psyche), relates closely to the doctrine
+   of the unitary origin of the world, and points in turn to its primitive
+   formation by the gods (Moreau, 1981). This tradition is typical of
+--
+   universe on the basis of numbers which express both synthesis and
+   harmony. Pythagorism is taken up by Plato who explains that the
+   ordering of the primitive chaos is attributed to a "cosmic soul", which
+   is "the most excellent of all things engendered by the best of all
+   eternal intelligible beings" (Timaeus, 37ab). The same theory is to be
+--
+   Plotinus, and is often termed "emanationism". According to Plotinus,
+   the One gives rise to the Intelligence (Gr. nous), which in turn gives
+   rise to the cosmic soul (Gr. psyche), which contains the "seminal
+   reasons" of all things. It may be noted that the notion of "cosmic
+   soul", as well as the concomitant theories of emanation and pantheism,
+   have arisen occasionally in a Christian context. Theodore of Chartres
+   and William of Conches, for example, considered that the cosmic soul
+   may be identified with the Holy Spirit, an idea also found among
+   Neoplatonics. Giordano Bruno took it that it is present as a principle
+   of life in all beings. In an idealistic and pantheistic context
+   Friedrich Schelling defines the cosmic soul as what sustains the
+   continuity of the organic and inorganic world, and unifies nature in a
+   single universal organism.
+--
+   It is quite clear however that the Judaeo-Christian doctrines of
+   creation ex nihilo and the special creation of man would eventually
+   come to explain the origin, nature and destiny of the soul in quite
+   different terms. The description of the human soul as an emanation of
+   the cosmic soul has, in fact, two principal drawbacks. First, it is not
+   in a position to express or defend the dignity of the individual human
+   being, since just as the individual soul is derived from the cosmic
+   soul, humans in their multiplicity of microcosmoi are ontologically
+   subordinated to the unitary cosmos in general. Second, drawing as it
+   does on a vitalistic, mythological and intuitive epistemology intent on
+--
+   Aristotle contributed decisively in this process of clarification.
+
+III. The Human Soul as an Individual Substance: Plato and Aristotle
+
+   Reflection on the existence and origins of the human soul among
+   primitive peoples, as we have seen, is cosmological, at least if taken
+   from a descriptive standpoint. Nonetheless it is decisively motivated
+--
+   immortality and ethical responsibility. These elements are central in
+   the consolidation of the notion of the "substantiality" of the human
+   soul, which was one of the principal legacies of the golden age of
+   Greek philosophy. The consolidation of a more substantialist
+   understanding of the individual human soul took place historically in
+   two main directions. First, in a primarily ethical and religious
+   context, Plato developed an anthropology of the human composite, body
+   and soul, that was decidedly "dualistic" in character: body and soul
+   cohabitate as it were, but are at heart antagonistic to one another.
+   Second, in a largely rational, empirical and metaphysical context,
+   Aristotle developed an understanding of man involving a "substantial
+   unity" between body and soul.
+
+   1. Plato's Understanding of the Soul. Plato (427-347 B.C.) received the
+   notion of the purification and salvation of the soul from the Orphic
+   sects, through Pythagorism. Souls are considered to be of celestial
+   origin, particles broken off the infinite Spirit (Gr. pneûma) that
+   enter material bodies in order to breathe. Given their heavenly origin,
+   souls, if they live upright lives and attain complete purification will
+   eventually be reintegrated into their primitive spiritual origin. If
+   they live unworthy lives, however, they will be reincarnated as often
+   as necessary in the bodies of plants or animals until they have
+   undergone full purification. Though certain cosmological elements
+   remain in his reflection, Plato's understanding of the soul is situated
+   principally in an ethical and religious context. This is confirmed by
+   the idea that soul and body are fundamentally antagonistic, and the
+   former "enters" the latter as the result of a primitive fall or sin
+   (cf. Phaedrus,  248ff; Republic, VII, 514ff).
+
+   Plato attributes four properties to the human soul. a) The soul is the
+   "principle of life". While every body moved from without is inanimate,
+   every body that moves from within by itself and for itself is animate.
+   Every aspect of reality is regulated, as it were, by its own soul. The
+   sun, the stars, the earth all have their own (cf. Laws, 898d). b) The
+   soul is "immaterial." What is proper to the soul is thought, and by it
+   the soul relates to the intelligible world. Significantly Plato rejects
+   the theory of Pythagoras (570-490 B.C.), according to whom the soul is
+   the simple result of the harmony (Gr. krásis) among the elements
+   (Cf. Phaedo, 93b). Moreover, human soul is composed of three parts: the
+   rational soul, situated in the brain and destined to direct superior
+   human activities; the passional soul, situated in the thorax and source
+   of the noble passions; and the concupiscible soul, in the abdomen,
+   source of the gross appetites (cf. Republic, 441c). c) The passional
+   and concupiscible parts of the soul are mortal, while the rational soul
+   is of itself immortal and eternal. "Of all the things man possesses,
+   his soul is the closest to the gods, and its properties are most divine
+   and true" (Laws, 726a). In the Phaedo, Plato offers a series of reasons
+   to account for the soul's immortality: the analogy with the cyclical
+   rule of natural things (just as death follows on from life, so also
+   life must follow on from death); humans know in the present moment by
+   reminiscence or recognition what they once saw in a previous existence
+   and this would be impossible were the soul not immortal; the soul, on
+   account of its simplicity and affinity to the celestial ideas, is
+   immutable and pure, and thus imperishable, whereas the body and
+   everything composed corrupts and dissolves (cf. Phaedo, 70-80;
+   Republic, 608-611). d) The soul "precedes" the body with which it is
+   united in an accidental and not entirely natural way, as a pilot to a
+   ship, or a rider to a horse (cf. Phaedo, 246a, 247c). In that sense the
+   body is not fully human: man is his soul; man is a soul using a body
+   (cf. Alcibiades Major, I, 130a-131a).
+
+   Plato's ideas were taken up frequently throughout the history of
+   thought, especially by the Neo-Platonic thinkers Plotinus (205-270) and
+   Porphirius (233-305). Plato's understanding of the soul has been
+   enormously influential over the centuries for several reasons. It
+   expresses a way of thinking in consonance with the basic thrust of many
+   other world views, particularly with Oriental ethical and religious
+   philosophies (Eliade, 1987), and has the merit of rationally enhancing
+   pre-critical and intuitive descriptions of the soul, giving them a
+   metaphysical basis. From the ethical and religious standpoint, it
+   certainly offers a coherent and enduringly attractive account of the
+   origin and nature of the soul. However its drawbacks are not easily
+   overcome, mainly because the strictly anthropological and metaphysical
+   underpinnings of Platonism are constantly put under strain by its
+--
+   matter and the findings of science. Platonism defends the immortality
+   and dignity of the human individual, certainly, but the presence of
+   humans (of human souls) in the world, and their relationship to the
+   cosmos and to other humans remains clearly problematic. It is not
+   surprising to find that Plato accords slight value to empirical data in
+   general, since the latter draws on the material and corruptible side of
+   reality. Understandably, the exact sciences play little or no role in
+   the development and consolidation of his doctrine of the human soul
+   (cf. Phaedo, 65-67). It is at this point where Aristotle's contribution
+   comes in.
+
+   2. Aristotle's Understanding of the Soul. After an early understanding
+   of the human soul close to Plato's dualistic vision, and then an
+   intermediate period of "vitalist instrumentalism," which holds an
+   accidental though not antagonistic union between body and soul (cf.
+   Inciarte, 1984; Nuyens, 1973), the definitive position of Aristotle
+   (384-322 B.C.) is found in his work De Anima, deeply influenced by his
+   scientific findings and cognisant of the psychosomatic unity of the
+   human being. Here Aristotle speaks unhesitatingly of a direct union
+   between the body and soul, in such a way that the soul is said to be
+   the "substantial form" of the body. Of this work Hegel said that "it is
+   the best and perhaps the only speculative work on this subject [the
+   soul]" (Encyclopedia of Philosophical Sciences, § 378).
+
+   Aristotle begins by affirming that «the soul is that by which in the
+   first place we live, feel, move and understand», and adds that "it
+   cannot be either without the body, or be a body, because it is not a
+   body, but something of the body" (cfr. De Anima, II, 2, 414a). It is
+   the first principle of corporal living beings, though distinct from
+   matter; it is the source of the body's life. The soul "is the first act
+   and the final act (Gr. enteléchia) of the natural body which is in
+   potency to life" (De Anima, II, 1, 412a). Thus the soul can be
+   considered either as an "entitative principle" which constitutes a
+   living organism out of a potentially living body, or as an "operative
+   principle," or source and root of all the vital acts of the organism.
+   According to Aristotle, there are three kinds of "soul" informing
+   matter: the vegetative soul, principle of nutritive, growth and
+   reproductive actions; the sensitive soul, origin of knowledge, appetite
+   and sensitive movement; and the rational soul, principle of rational
+   knowledge and attraction. For him it would be incorrect to say that the
+   soul lives, but rather that the entire human being lives in virtue of
+   the soul (cf. Metaphysics, VII, 11, 1037a).
+
+   As regards the spirituality and immortality of the soul, Aristotle
+   holds that in humans there are intellectual operations which only a
+   separated (and therefore incorruptible) substance (Gr. noûs, as opposed
+--
+
+   After examining Plato and Aristotle, it should now be clear that our
+   understanding of the human soul is significantly conditioned by that of
+   the human body, and vice versa. A clear point of conflict is to be
+   found in the area of human mortality. For Plato, whose religious ethics
+   impel man towards immortality, death is considered a release, an
+   unshackling of the soul from the dead weight of matter. For Aristotle,
+   whose empirically-based metaphysics ties man to the tangible and
+   material world, death seems to involve the destruction of nature and
+   the elimination of the individual, though he does not reject the
+   possibility of an eschatologically immortal soul (cf. Metaphysics, XII,
+   3 1070a). It is precisely in the area of death and immortality that
+   Judeo-Christian revelation made its probably most lasting contribution
+   to anthropology, and thus to our understanding of the human soul.
+
+IV. The Human Soul in Sacred Scripture
+
+   1. Terminology . Sacred Scripture uses three closely linked Aramaic
+   terms when speaking of the human being: basâr, that is, "flesh"
+   (translated as sarx in the Greek version of the LXX), nefes, "soul"
+   (Gr. psyché), and rûah, "spirit" (Gr. pneûma) (cf. Gundry, 1976; Lys,
+   1959; Wolff, 1973). All three refer to the entire human being. Basâr
+   denotes weakness, dependence and corruptibility, nefes indicates the
+   concrete human vitality of the individual, and rûah or spirit, while
+   also referring to the "soul," points above all to the divine source of
+   all life. Thus the human being "is" basar and nefes, and "receives"
+   ruah. The term nefes, the nearest Biblical equivalent to "soul," found
+   about 750 times in the Old Testament, refers to a "being that breathes"
+   (cf. Ex 23:12; 31:17; 2Sam 16:14), understandably so, for its
+--
+   1980, pp. 200-210)
+
+   The term "soul" or "spirit" is also to be found in the New Testament in
+   a variety of usages (cf. Schweitzer et al., 1984). Like in the Old
+   Testament, the Greek term psyché indicates the psychical life referred
+   to the soul or to the individual (cf. Lk 2:35; At 2:43 and 15:24; Rom
+   2:9; 2Pt 2:8), also used by Jesus (cf. Mk 14:34). In the very moment of
+   his his passion, Jesus' soul is "sorrowful even to death" (Mk 14:34).
+   The term spirit is also widely used (pneûma) and referred to the
+   personal interiority (cf. Mt 5:3; At 17:16; 1Cor 2:11; 2Cor 2:13; Heb
+--
+   2. "In the Image and Likeness of God" . The anthropological content of
+   the Scriptural terms nefes, basâr and rûah, approximate Hebrew
+   equivalents of "soul," "flesh" and "spirit," is quite similar to that
+   of other religious and philosophical world-views of the same period
+   (cf. Wolff, 1973). The terms do not, in other words, express a
+   completely distinct and clearly identifiable biblical anthropology and
+   understanding of the human soul. The truly distinctive elements of
+   biblical anthropology do not provide so much a description of the
+   "nature" of man on his own, but rather of his "interpersonal"
+--
+   Many Fathers of the Church, among them Clement of Alexandria, Origen
+   and Athanasius took it that the "image and likeness of God" is to be
+   found imprinted principally on the human soul, centre of the human
+   intellect and will, in keeping with some of the fundamental intuitions
+   of the Neoplatonists and Stoics (cf. Grossi, 1983; Hamman, 1987). This
+   position was followed in general terms by many authors, among them
+   Augustine and Thomas Aquinas. However it would be mistaken to take the
+   "image and likeness of God" present in the soul as if the latter could
+   be considered apart from the body. It would be more correct to say that
+   the notion of "image and likeness", referring as it does to the entire
+   human being, is what explains the true role, nature and purpose of the
+   soul, rather than the other way around. In spite of the fact that the
+   term "image of God" is not applied frequently to humans in Scripture
+   (it appeares in Gn 1:26-27 e 9:6; Wis 2:23), Christian anthropology has
+--
+   "image and likeness" principally understand it in terms of human
+   dominion over, or embassy to the world. No longer is the human seen as
+   the product of a sort of "cosmic soul." Human superiority over the
+   land, the sea, the stars and the animals is proclaimed by his being
+   called and capacitated to exercise dominion over, and take care of, the
+--
+   the earth. b) Being made in the "image and likeness" of God can also be
+   seen to express the social character of humans and the unity of the
+   human race. The activity of the human soul does not find expression in
+   solitude and contemplation alone, but in communion with others, and
+   fundamentally with God. c) Genesis speaks of man made "in the image and
+--
+   "in the image" of God, but is "made in the image" of God.
+
+   Concerning the relationship between soul and immortality, it must be
+   understood in the light of the biblical doctrine on the origin and
+   nature of death itself (cf. Pozo, 1980). Death is not considered truly
+--
+   Christ, Lord and Saviour of mankind, who died and after three days rose
+   again from the dead (see Resurrection). From the standpoint of the
+   understanding of the soul, the Scriptural understanding of death offers
+   a important clarification: the soul, should it eventually exist
+   separated from the body, would do so as it were in unnatural and
+   temporal circumstances, in view of final resurrection.
+
+V. The Soul in Christian Theology, from the Early centuries to the Middle
+Ages
+
+--
+   religion than they did in the findings of science and its implications.
+   This is manifested in a generalised acceptance of Platonic
+   anthropological categories which express a net distinction between soul
+   and body. Platonism was considered to be more pliable to Christian
+   revelation and reflection than Aristotle's thought, since it focused on
+--
+   pessimistic attitude to a world in urgent need of being saved. It would
+   be mistaken however to consider early Christianity in a dualistic
+   light, and this for distinctly theological reasons. Body-soul "dualism"
+   —whether of a Platonic or Gnostic variety— speaks of a double origin to
+   the universe, unthinkable in a Judaeo-Christian monotheistic context.
+   Body-soul dualism tends to identify matter with nothingness (Plotinus)
+   or with evil (Mani, Priscillian), which is clearly contrary to faith in
+   a free creation by a loving God of all things ex nihilo. The doctrine
+   of the Resurrection of Christ, and its promised extension to believers
+   at the end of time, completely obviates any essential antagonism
+   between body and soul. It is understandable therefore that Christian
+   writers from the beginning unanimously held to the fundamental unity of
+   the human being (cf. Orbe, 1967; Fernández, 1979). Two principal
+--
+   insisting on the formation of humans from the dust of the earth and
+   emphasising primarily the unity of the human being; and that of the
+   Alexandrian school, considering the spiritual soul as the defining
+   element of the human composite. The same basic arguments recur
+   throughout the Middle Ages, right up to the Council of Vienne held in
+--
+   According to Justin Martyr (2nd century), man is an ánthropos sarkikós
+   (cf. De resurrectione, 7), naturally in the flesh. He asks: "Is man to
+   be identified with the soul on its own? No, it is the soul of man. Is
+   the body man? No, it is man's body. Neither of them is of itself man,
+   who is a rational animal. Man is the result of the composition of both"
+   (De resurrectione, 8). Athenagoras (II century) spoke in the following
+   terms: "every human nature is made up of an immortal soul and a body
+   adapted to it in the moment of creation; it was not the soul alone, nor
+   in separation from the body, to which God destined creation and life...
+   but rather to humans, composed of body and soul... A single living
+   being is formed out of body and soul, a being which suffers as much as
+   the soul and the body suffer" (De resurrectione, 15). In opposition to
+   the Gnostics who denied final resurrection and considered that matter
+   had been created by the devil, St. Iraeneus of Lyons (135-202)
+--
+   Valentinus. Caro cardo salutis, he declares, "the flesh is the hinge of
+   our salvation" (De carnis resurrectione, 8). As a result, though in man
+   both body and soul are present, neither component can be said to be
+   prior to the other. Conversely, authors of a more Platonic bent such as
+   Clement of Alexandria, Origen and Gregory of Nyssa in the East, and
+   Lactantius and Augustine in the West, gave priority to the soul in
+   explaining the origin and dignity of the human being. Though in no case
+   do these authors deny the true unity that binds body and soul, human
+   specificity is defined in terms of the soul.
+
+   In the anthropology of Origen (185-253), the predominance Plato gives
+   to the soul is also present. His systematic opposition to the Gnostics
+   doea not bring him, however, to insist on the divine origin and dignity
+   of matter as Iraeneus did, but above on all the freedom and
+--
+   been virtually constrained to sin and slavery. Origen however had no
+   doubt but that God had created matter, but had done so in order to
+   punish wayward souls.
+
+   Openly opposed Manichaeistic dualism in respect of matter, Augustine
+   (354-430) drew considerably on the doctrine of Plato. "The better part
+   of man is his soul -he says- the body is not all man, but the inferior
+   part of man" (De civitate Dei, XIII, 24). Nonetheless Augustine does
+   reject the Platonic notion of the pre-existence (or native divinity) of
+   the human soul, and its temporal precedence over the body. As regards
+   the origin of the soul, he accepts neither Plotinus' emanationism, nor
+   Origen's doctrine of the simultaneous creation of souls at the
+   beginning of time. The theology of original sin and its transmission
+   inclines him towards the theory of "traducianism," popularised by
+   Tertullian, according to which the souls of children are drawn from
+   that of their parents and not from God. Yet he remains undecided
+   between this and the theory of "individual creationism" (first taught
+   by Lactantius, cf. De opificio Dei, 19, 73) which with time become the
+   doctrine most commonly accepted by Christians. For Augustine, in fact,
+   body and soul are mutually necessary elements of the human composite.
+   The human being is not the body alone or the soul alone; when both are
+   united at the same moment, then there is man. "It would be false —says
+   Augustine— to say that man consists of the mind (Lat. mens; Gr. noûs),
+   and add that what is in the flesh is not man" (Sermones, CLIV, 10, 15).
+   It is clear however that Augustine envisages the union between body and
+   soul in terms of a hierarchical and dynamic interaction. He states that
+   man is a rational soul that uses a mortal and earthly body.
+   Analogously, to feel is not proper to the body, but rather to the soul
+   by the body; neither does the body feel, but the soul feels by the body
+   (cf. De Genesi ad litteram, III, 7).
+
+   Official Church statements over the patristic period regarding
+   anthropology in general and the soul in particular vouch for the divine
+   origin of both body and soul, and, in the context of creation, man and
+   evil, oppose the principal tenets of Gnosticism. The following points
+   are relevant. First, the human soul is neither part of or an emanation
+   of the divinity; neither does it derive from the divine substance (cf.
+   DH 190, 201, 285, 455, 685), but is created by God immediately (Lat.
+   immediate), that is directly, without intermediaries (cf. DH 190, 360;
+   a teaching affirmed again by Pius XII's Humani generis, cf. DH 3896),
+   and ex nihilo from nothing pre-existing (cf. DH 190, 360, 685). Souls
+   do not pre-exist ab aeterno, as Origen suggested, nor do they become
+   enclosed in a body in punishment for their sin (cf. DH 403, 456).
+--
+   body and of the world, insofar as it is all created by God. Many
+   Gnostics considered in fact that the devil created matter and wages war
+   on humans (on the human soul) through the body. As a result they often
+   considered marriage and procreation as the work of the devil. The
+   Church consistently rejected these teachings, for example at the
+   Council of Braga in 561, and at Lateran Council IV (1215) and the
+   Council of Florence (1442) (cf. DH 457-463, 802, 1333, 1336). Third,
+   the unity of body of soul is expressed in three ways: a) in terms of
+   the oneness of divine creating action by God, «creator of all things,
+   seen and unseen» (DH 150); b) on the basis of the doctrine of final
+--
+   and c) on the basis of the "hypostatic" union that unites in the person
+   of the Word the divinity and perfect humanity of Christ, made up of
+   body and rational soul: "sicut anima rationalis et caro unus est homo,
+   ita Deus et homo unus est Christus" (DH 76).
+
+   2. The Debate on the Nature of the Soul in Mediaeval Thought and the
+   Contribution of Thomas Aquinas . Christian anthropology during the
+   Patristic period is Christological in approach, though linguistically
+--
+   approach of St. Bonaventure (1217-1274) and Hugh of St. Victor
+   (1096-1141) is still decidedly Platonic. According to Hugh of St.
+   Victor, God has created the soul and not the body in his image and
+   likeness; that is why it is immortal; yet on account of its union with
+   the soul, the body partakes in the latter's immortality as a beneficium
+   creationis . Body and soul are complete substances, accidentally united
+   to one another, and the separated soul therefore may be considered as a
+   person in its own right. And just as the body did not give the soul its
+   personal being in being united with it, neither will it take it away
+   when it corrupts at death. As a result, final resurrection is of slight
+--
+   made itself felt during the 1200's. Gilbert de la Porrée (1080-1154)
+   and William of Auvergne (1180-1249) consider the human being in a more
+   harmonic way, following the Aristotelian perspective of the soul as the
+   form of the body: the soul is to the body what form is to matter. The
+   "in-forming" role of the soul is considered essential both to its own
+   nature and to the body which it constitutes as human. The apparently
+   insuperable tension (cf. Dales, 1995) between the Aristotelian doctrine
+   of substantial union between body and soul, and the Platonic vision of
+   the immortality of the soul and its metaphysical independence from the
+   body, is given a decisive clarification, if not a definitive solution,
+   by St. Thomas Aquinas (1225-1274) (cf. Bertola, 1973; Moreau, 1976;
+--
+   between the Platonic and Aristotelian tendencies for theological and
+   Christian reasons (cf. Summa Theologiae, I, q. 75; for issues related
+   to the human soul see the qq. 75-90). The human soul is the form of a
+   body because of the kind of substance it is, he says (we note that the
+   term "substance" must be understood as something that exists per se).
+--
+   according to Aquinas the act need not correspond in every case to a
+   particular substantial form, nor potency to matter, as Aristotle
+   thought. The soul is a substance, in that it is composed of essence
+   (that of a spiritual form) and act of being deriving directly from the
+   divine creating action. This gives man full metaphysical individuality
+--
+   in a sense had attempted to "platonise" Aristotle (cf. Fabro, 1955, p.
+   269). Besides, since it includes no materiality in its own structure,
+   the soul is simple and incorruptible. "The body is not united to the
+   soul accidentally, because the very being of the soul is also the being
+   of the body, thus being common to both" (Quaestio de anima, a. 1, ad
+   1^um). In technical terms, it can be said that the soul communicates
+   being to the body at the level of formal, not efficient causality.
+
+--
+   spiritual substance be the form of a corruptible body, constituting
+   with it a substantial unity of being (cf. Summa Contra Gentiles, book
+   II, ch. 56)? His reply is in the affirmative, for the soul's very
+   purpose is to communicate the being by which it subsists to the body
+   (cf. ibidem, chps. 68-72). The following observations can be made. a)
+   The rational soul is the form of the body not through its potencies and
+   virtualities as Avicenna held, but by its very essence. Though
+   subsistent, it is proper to the soul to "inform" the body, and it
+   stands in need of the body for its own perfection (cf. Summa
+   Theologiae, I, q. 51, a. 1). b) The rational soul is the one and only
+   form of the human body, being at one and the same time vegetative,
+   animal and rational. By a single act of being the human soul is the
+   form of the body and of all its functions. Thus there are no
+   intermediaries of any kind between the body and the soul. The fact that
+   a particular human being does not exercise all its faculties only means
+   that they are in potentiality to their acts; the situation is different
+   with God, for whom the power of acting and act itself are identical
+   with the divine substance. c) The soul as such does not exist prior to
+   the body, though it is metaphysically prior to the body in that it is a
+   form that is independent of the body as regards its being. This is what
+   makes it possible to speak of the "incorruptibility" of the soul
+   (Aquinas speaks of "immortality" regarding the human being insofar as
+   he participates in the divine life through the gift of grace). Aquinas
+   demonstrates the incorruptibility of soul not on Platonic but on
+   distinctly Aristotelian premises. The soul can, potentially, know all
+   things material, and can transcend itself, since it must be immaterial
+   and thus incorruptible (cf. Summa Theologiae, I, q. 75, a. 6; cf.
+   Foster, 1993). d) The separated soul is neither a man nor a person.
+   After death it retains a natural tension (Lat. commensuratio) towards
+   "its" body, so that the soul united to the body is more like God than
+   when separated from the body, because it possesses its nature more
+   perfectly (cf. De Potentia, q. 5, a. 10, ad 5^um).
+
+   Aquinas was aware of the need to insist both on the metaphysical
+   priority of the human soul, and its substantial unity with the body,
+   according to the formula anima forma corporis. He did so: a) for
+   theological reasons, to avoid that any body/soul duality or considering
+   matter as an independent co-source of human existence, would compromise
+   the oneness and simplicity of the creating work of God; b) for
+--
+   trust in the reliability of empirical observation and scientific
+   discourse. However, two points still remained unclear in Aquinas' view:
+   the unicity of the human soul, and the statute of the separated soul.
+
+   After the death of Aquinas (1274), the bishop of Paris Stephen Tempier
+   and, later, the archbishop of Canterbury Robert Kilwardby and his
+   successor John Peckham, rejected as false the Thomistic thesis of the
+   unicity of the soul, they all maintaining the existence of three
+   different souls in the human being. The "plurimorphic hypotheses," that
+   in real terms came closer to Plato than to Aristotle, was followed by
+   most of the scholars of that epoch, among them the leader of the
+--
+   only give rise to several distinct substances. As a result authors such
+   as Richard Knapwell and John of Paris began to repropose Aquinas'
+   theory of the soul as the unique form of the body, insisting that body
+   and soul are not truly distinct realities. Finally, Aquinas' position
+   was taken up at the Ecumenical Council of Vienne in 1312, which states
+   that "substantia animae rationalis seu intellectivae, vere, per se et
+   essentialiter humani corporis forma - the soul truly, of itself and
+   essentially is the unique form of the human body" (DH 902). The
+   doctrinal point of departure of this statement is at heart
+--
+
+   It is easily to understand that Aquinas' position concerning the
+   situation of the soul, once separated from the body, remained unclear.
+   Thomas himself was keenly aware that after death the separated soul
+   does not fulfil its essential purpose, that of "in-forming" the body.
+   Averroists at Padua kept insisting that there is only one, common,
+--
+   (Averroists and followers of Pomponazzi) came to deny personal
+   immortality. However, Pope Leo X, with the approval of the Fifth
+   Lateran Council (1513), rejected the proposition that "the human soul
+   is mortal or that it is one for all humans" (DH 1440).
+
+   The teaching of the Protestant Reformers differs little materially from
+   that which is taught commonly during the Middle Ages. Nobody questioned
+   the common doctrine of the composition and unity of body and soul,
+   though the latter was understood, at least implicitly, in a Platonic
+   and spiritualist sense, more centred on individual salvation after
+   death (immortality of the soul) than on eschatological consummation at
+   the end of time (see Resurrection). Yet under the influence of
+   Nominalism and Augustinianism, a subtle change began to take place. It
+   was no longer generally accepted that the existence and nature of the
+   soul could be arrived at by rational deduction, whether in Aristotelian
+   or Platonic terms. Peter Aureolus (1280-1322) and William of Ockham
+   (1280-1349) thought that there was no reason to attribute the
+   immaterial acts of knowing and willing to an immaterial form or soul,
+   the existence of which can only be known by faith. Likewise Cardinal
+   Cajetan (1468-1534) was convinced that the immortality of the soul is
+   as unknown to humans as the mystery of the Blessed Trinity or the
+   Incarnation of the Word, and opposed Lateran V's suggestion that
+--
+   rationally (cf. Martin, 1995). Perhaps on account of a certain
+   pessimism present in the later Middle Ages the doctrine of the survival
+   of the soul after death and its final reintegration at resurrection was
+   coming strictly under the sway of the theological virtues of faith and
+   hope, and no longer under reason. It is interesting to add that Ockham,
+--
+   informs matter directly. He endorsed the opinion according to which
+   there are in the human being several substantial forms, at least a form
+   of corporeity and the intellectual soul, or perhaps three distinct
+   forms. It would seem therefore that the loosening of the bond between
+   soul and body and the gradual reappearance of dualism, was accompanied
+   by an ever growing difficulty of reflecting on the ontological reality
+   of the soul in purely rational terms. Immortality is no longer
+   considered a "natural" quality of the human soul, but rather a gift of
+   the divine grace. In other words, both dualism and fideism seemed to
+   move at the same pace. Understandably, philosophers began turn their
+   attention to the human soul in terms of tangible human subjectivity,
+   overlooking its ontological aspects.
+
+VI. The Human Soul and Subjectivity in Modern Philosophy
+
+   It may be said that the existence and subsistence of the human soul
+   becomes, after the existence of God, the principal, unquestioned
+   "article of faith" of recent centuries. Yet its existence and
+   properties are explained and reflected upon not in metaphysical terms.
+   The soul is not looked upon as a reality that founds immaterial
+   actions, but mainly as an element localising human thought,
+   consciousness and subjectivity, in the context of a prevailing
+--
+   1999).
+
+   1. Radical Dualism and the Supremacy of the Soul. The humanism of the
+   Renaissance went beyond putting the soul at the centre of things; the
+   centre, rather, is human subjectivity, as in the writings of Marcellus
+   Ficinus (1433-1499). Intent on countering the inroads of sceptical
+--
+   am" (Principia Philosophiae I, 10). We are able to doubt everything, he
+   says, except the fact that we exist and think. As a result, for
+   Descartes, the soul itself is considered as a thinking subjectivity,
+   the self-thinking self. In this process, he observes, thought is
+   distinct from both the body and sensation; the soul in fact operates on
+   the basis of "innate" ideas and relates to the body only accidentally.
+   Body and soul are thus separate substances, the res extensa and the res
+   cogitans respectively, and there is no true substantial union between
+   them. "I have a body to which I am closely united," he says.
+   "Nonetheless since on the one hand I have a clear and distinct idea of
+   myself, according to which I am only a thing that thinks and not
+   something extensive, it is certain that I, that is, my soul, by which I
+   am what I am, is completely and truly distinct from my body"
+   (Meditationes de Prima Philosophia,  VI). Though Descartes insists that
+   the union between body and soul is very close, his vision is
+   undoubtedly dualistic. The human being consists of two complete though
+   mutually linked substances: he is an animal controlled by a spiritual
+   soul. The soul exercises its influence on the vital spirits of the
+   pineal gland, where it is located, and in return it receives images and
+   sensations from the corporal organs.
+
+   Malebranche (1638-1715) takes up the basic thrust of Descartes'
+   arguments, affirming however that the soul does not exercise any real
+   influence over the body, or vice versa. Rather, the desires of the soul
+   provide God with the "occasion" of producing the required reaction in
+   the body. Spinoza (1632-1677) radicalises Descartes' doctrine in a
+   pantheistic fashion by affirming that body and soul are two modes of
+   the one Substance, coinciding respectively with extension and thought.
+   In other words there is a strict psycho-physical parallelism between
+   "body" and "soul." Both terms designate the same reality: the soul is
+   the "idea of the body"; the body is the object of the mental idea that
+   constitutes it. Instead of "soul", Spinoza speaks preferentially of
+   "mind" (Lat. mens). The understanding of the relationship between body
+   and soul is expressed by Leibniz (1646-1716) with the aid of his theory
+   of monads: simple, indivisible, incorruptible, closed, incommunicable
+   substances out of which everything is composed. For Leibniz body and
+   soul relate to one another in a purely exterior fashion, working side
+   by side synchronically, in that the Creator establishes a primordial
+   harmony between them. Similar ways of speaking of the soul are to be
+   found in authors such as Goethe, Hölderlin and Moses Mendelssohn (cf.
+   Pieper, 1968).
+
+   Understandably the problematic side of the equivalence Descartes
+   established between soul and consciousness would come to the fore with
+   the passing of time. In fact Immanuel Kant (1724-1804) censured
+   Descartes, Mendelssohn and Leibniz for uncritically affirming
+   continuity between the psychological and metaphysical spheres. It is
+   not legitimate, he said, to deduce the existence of a soul that is
+   substantial, simple, incorruptible, personal, spiritual and immortal
+   from the subjective experience of thinking (cf. Critique of Pure
+   Reason, II, II, 1). The soul may be said to exist, Kant says, but only
+   as an idea or "postulate of practical reason." That is to say, were
+   there no such thing as the human soul, it would be impossible to
+   develop a consistent religious and ethical system. He considers the
+   doctrine of final resurrection, however, as merely symbolic or even
+   superfluous.
+
+   2. The Soul and the Self as a Product of Matter. The English
+   philosopher David Hume (1711-1776) developed the scepticism motif,
+   referred to above, in open opposition to Descartes. He argued that
+--
+   to come to consciousness in knowing. In other words consciousness
+   derives from the presence of objects perceived, and not from a
+   pre-existent spiritual soul. Hume does not as such deny the soul (or
+   better, the mind) as a spiritual substance, but affirms simply that we
+   have no way of proving its existence. In a similar fashion William
+   James (1842-1910), passsing from Hume's agnosticism to an explicit
+   materialism, concluded that the soul did not exist at all but was
+   merely a collection of psychic phenomena. Bertrand Russell (1872-1970)
+   would graphically describe the spirit as "matter in gaseous state."
+
+   A distinct phenomenon facilitating the decline of the Cartesian
+   understanding of the soul developed in the area of experimental
+   psychology at the end of the 19th and beginning of the 20th centuries.
+   The psychologies of Freud, Jung and Adler, took no interest in "the
+   soul" as such. All three, however, in spite of significant variants,
+   developed psychologies "of the deep," and came to appreciate that the
+   mind does not operate only at a conscious level, as Descartes and
+   others as much as said by identifying the soul with conscious thought.
+   The mind has a life of its own, much of which is "unconscious" or
+   "subconscious." Though the notion of "depth" had not been lost on
+   classical thought —think of Augustine's cor (or to the corresponding
+   biblical term), and of Bonaventure's apex - however, Freud's symbolic
+   equivalent of the "soul" remains entirely self-referential, unrelated
+   to God or religion; psychoanalysis and psychotherapy take the place of
+   spiritual life (mysticism) and redemption. Against Descartes depth
+   psychologies also "rediscovered" that the human mind is deeply
+   influenced and determined by somatic influences of all kinds, a notion
+   to which Aquinas, with his doctrine of the soul as the only substantial
+   form of the human body, gave full expression.
+
+--
+   deny its spirituality, immortality and free will. Something of a kind
+   is to be found in Marxist thought. In linking realism with materialism,
+   Marxists considered the "soul" as a mere epiphenomenon or product of
+   matter, and denied its existence as a spiritual substance. Friedrich
+   Engels (1820-1895) once said: "What is original, spirit or nature?
+--
+   nature is original belong to the different schools of materialism" (L.
+   Feuerbach und der Ausgang des klassischen deutsche Philosophie, 1886).
+   For materialists the "soul" as such does exist. It is a conventional
+   term used to express the unstable and alienating epiphenomenon of
+   individual human life. Psychical and conscious life are considered the
+--
+   brain."
+
+VII. The Soul in Modern Science: Evolutionism and the Mind-Brain Problem
+
+   Modern science has given special attention, directly and indirectly, to
+   the human soul in two directions: in dealing with the evolutionist
+   hypothesis and in relation to the Mind-Body problem developed by
+   philosophers and neurologists during the 20th century.
+--
+   others during the 19th and early 20th centuries formulated what was
+   known as the "transformist" hypothesis, which explained that the human
+   body proceeds, ultimately, from non-human parents, yet the soul is
+   created directly by God. Becoming a human being (what is generally
+   called "hominization") may be considered therefore as a process that is
+   staged in time. This hypothesis simplifies things a lot, in that the
+   body is taken to be the reserve of science, while the soul is put aside
+   for the study of theologians and philosophers.
+
+--
+   even to outright dualism. Should the human body already possess a
+   complete "form" of its own (vegetative, sensitive) before the creation
+   and infusion of the soul, then the latter can hardly be considered as
+   the unica forma corporis (see above, V.2), and the difficulties typical
+   of the dualistic interactionist theories of Descartes and others will
+--
+   between the higher primates and Homo sapiens, in order to avoid
+   dualistic extrinsecism we should join the adjective "human" to the body
+   only insofar as it is united to the soul. According to this Church
+   teaching, the "human body" begins to exist only when the human soul is
+   created. It should be added of course that science may well be in a
+   position to establish that the evolutionary history and genetic pattern
+--
+   2. The Mind-Body Relationship. The growth of experimental psychology
+   during the 20th century spawned a wide variety of schools and
+   scientific approaches to the question the soul and human specificity.
+   Of particular importance was the "methodological behaviourism" of B.F.
+   Skinner (The Analysis of Behavior, New York 1969) and the "logical
+--
+   Criticisms of behaviourism did not delay in coming (cf. Bunge, 1980;
+   Rorty, 1980). Yet the perennial dilemma of the relationship between
+   body and soul comes to the fore again in terms of the relationship
+   between mind (which takes the place of "soul" or "spirit") and body.
+   Against empiricists, materialists and behaviourists, the existence of
+   the mind is unequivocally affirmed. Yet it is still asked: what is the
+--
+   development could be suitably predicted. Leaving aside for the moment
+   the fact that many philosophers and neurologists refuse to identify the
+   mind (or soul) with the brain, what Crick (1994) called the "binding
+   problem" still remains, and can be stated as follows: what keeps such
+   structures in their place first of all, and, even more, where did their
+--
+   closely with it. Thus it is the self that possesses the brain, and not
+   the other way around. Popper in fact quite openly adopts the
+   explanation popularised by Plato: the self (the soul) is like a tiller
+   to a boat, or like a pianist to a piano. The position of Popper has
+   been accepted by other renowned philosophers and neurophysicists such
+--
+   problematic positions of Plato and Descartes.
+
+VIII. The Human Soul between Theology and Science
+
+   After this survey it would seem that only two main alternatives remain
+   as regards the existence and substantiality of the human soul: dualism
+   and monism. Either the human soul exists as a separate (or at least
+   separable) substance that controls the body from without (Plato,
+   Descartes, Popper), in principle a "spiritual" substance produced by
+--
+   fulfilment cannot accept either as a unique solution. Many attempts
+   have been made by theologians throughout the 20th century to express
+   anew what is intended traditionally by the human soul, especially in
+   the context of the challenges presented by the sciences. We shall
+   briefly examine Karl Rahner's (1904-1984) understanding of
+--
+   explanation of human identity in the context of eschatological
+   salvation. Both suggest what might be termed "actualistic"
+   understandings of the human soul (cf. G. Greshake, G. Lohfink, 1975).
+
+   Karl Rahner (1961) explains that the origin of life can be attributed
+--
+   A number of 20th century Reformed authors, such as Thielicke, Althaus,
+   Cullmann, Barth and Pannenberg, commonly deny the "natural" immortality
+   of the human soul, and as a result, its substantiality as a
+   metaphysical co-principle of the human being. Some Catholic theologians
+   have tended to move in the same direction (for example, Greshake,
+   Lohfink, Ruiz de la Peña). The theology of the first Reformers,
+   however, had not traditionally denied the immortality and
+   substantiality of the human soul, but quite the contrary, although they
+   emphasized that it was a tenet of faith, and, as such, unattainable by
+   reason alone. This change of perspective is mainly due to the
+   preference contemporary authors have for both pure Biblical exegesis
+   (Scripture speaks openly of final resurrection and not so much of the
+   immortality of the soul), and "de-Hellenization" of historical
+   Christianity, thus calling the existence of the soul into question.
+   However, it seems that the main difficulty Reformed theologians
+   encounter with the doctrine of the immortality and substantiality of
+   the human soul lies elsewhere. In modern philosophy the soul had come
+   to be understood mainly in terms of subjectivity and of a human
+   aspiration to the Absolute (for Lessing the soul is an "an infinite
+   striving," for Fichte it is the combination of knowledge and deed, for
+   Nietzsche, the will to power). In such a context, an immortal soul is
+   perceived as a source of autonomous human actions and thus a threat to
+   the traditional Luteran doctrine of justification by faith alone, by
+--
+   [Paderborn: Verlag Bonifacius-Druckerei, 1955], pp. 112-120;
+   O'Callaghan, 1997). According to Karl Barth, if God alone is immortal
+   (cf. 1Tm 6:16), then the human soul cannot be such.
+
+   Leaving aside the variety of questions the denial of the immortality of
+   the soul involves from a theological standpoint, some Reformed
+   theologians in recent times have wished to recuperate the notion of
+   soul (cf. Hermann, 1997). Others, such as the Lutheran theologian
+   Wolfhart Pannenberg, have put forward what might be termed an
+   "actualist" or dynamic understanding of what has traditionally be
+   called the human soul (cf. Pannenberg, 1998). According to the latter
+   the "separated soul" after death should not be considered as a
+   subsistent being as such; rather the individual human being would as it
+   were be "retained" in the mind of God during the intermediate period
+--
+
+   Pannenberg takes it that modern science has demonstrated that the
+   "soul" is not an object as such, but rather an aspect of the dynamism
+   of life and of human behaviour. Hence it would make no sense to speak
+   of the immortality "of" the soul. Besides, he notes that Christian hope
+   is founded on the notion of novelty, and not on that of stability and
+   continuity. Pannenberg admits however that Christian theology has
+   historically accepted the notion of the subsistence and survival of the
+   soul as a vital principle, for reasons not necessarily bound up with an
+   uncritical assimilation of Platonism. The doctrine in fact is closely
+   related to salvation and resurrection, and was put forward in order to
+   ensure that human identity between the earthly and risen state is
+   maintained. The so-called "immortality of the soul" is what made it
+   possible for resurrection to take place; the "soul" as forma corporis
+   was seen to retain the scheme, project, genetic code or éidos (that is,
+   the image) of the individual human being. Pannenberg considers,
+   however, that a subsistent immortal soul capable of surviving death and
+   ensuring final resurrection should in principle be in a position to
+   undergo new human experiences. However this would actually disqualify
+   its very reason of being, for new experiences (those involved for
+   example in purgatorial purification and the intercession of the saints)
+   would provide the soul with a distinct identity, as if the human person
+   was present in plenitude. As an alternative, Pannenberg suggests that
+   human identity "during" the intermediate period between death and
+--
+   lives and histories can be made immortal.
+
+IX. Concluding Reflections: is the Human Soul an "Action" or a "Substance"?
+
+   A proper application of Aquinas's hylomorphism may well be in a
+   position to overcome the drawbacks of both monistic and dualistic
+   understandings of the relationship between body and soul (cf. Borghi,
+   1992). Thomas Aquinas strenuously opposed the teaching of Averroes
+   which suggested that the so-called "possible" (or receptive) intellect
+--
+   homo intelligit —it is "this" man who knows, understands, etc. (cf.
+   Summa Theologiae, I, q. 76, a. 1). If a "unique" intellect is assumed
+   for all, the human soul is nothing but a fragment of deity which is in
+   act in every individual; likewise, the senses and immagination could
+   play only a merely accidental role in human knowledge (cf. Summa Contra
+--
+   position maintained by Rahner and Pannenberg is not far from what
+   Aquinas here intends to criticize. They both suggest what might be
+   termed an "actualistic" view of the human soul: God is considered to be
+   the one who enlivens each human being at the level of formal (or
+   quasi-formal) causality. Significant drawbacks, however, are present in
+--
+   "instrumental" and "second" causality (see Autonomy). Thomas Aquinas
+   teaches that in the order of creation, and specifically in that of the
+   spirituality of the human soul: "Nulla actio convenit alicui rei, nisi
+   per aliquod principium formaliter ei inhaerens —no action can be
+   performed by a subject without any principle that is inherent in that
+--
+   kind (knowing, loving, acting freely) can be meaningfully attributed to
+   humans only if they derive from a proper immaterial substance, that is,
+   the human soul. Otherwise they can only be attributed to some distinct
+   immaterial reality, an external, common "agent intellect," for
+   instance, or the Divinity itself. It would be more correct to say that
+   the direct action of God on man at the level of primary causality
+   involves the creation of the human soul, the unique form that makes it
+   possible for humans to will, to know, to be open to God, etc.
+
+   Likewise Pannenberg's position as regards the immortality and
+   substantiality of the human soul does not give sufficient consistency
+   to created reality as such. In a Christian context he is correct in
+   considering God as the only one capable of granting immortality or
+--
+   history and developing a concrete identity, were already human with a
+   spiritual dignity written into their very being. In fact the doctrine
+   of the immortality of the soul is not only meant to guarantee the
+   identity of the singular history of each human being, but rather to
+   ensure the metaphysical identity of their being human. Pannenberg's
+--
+   A document of the Roman Catholic Church issued from Congregation for
+   the Doctrine of Faith provides a brief but helpful summary of what the
+   Christian theology should maintain about the human soul, framed within
+   an eschatological context: "The Church affirms that a spiritual element
+   survives and subsists after death, an element endowed with
+   consciousness and will, so that the "human self" subsists. To designate
+   this element, the Church uses the word 'soul,' the accepted term in the
+   usage of Scripture and Tradition. Although not unaware that this term
+   has various meanings in the Bible, the Church thinks that there is no
+--
+   Eschatology, May 17, 1979). Both serious scientific endeavour and
+   religious and philosophical reflection over the centuries, have led to
+   the reality of the human soul as the living, spiritual, "informing"
+   centre of each human being. Historically speaking it can be argued that
+   whereas science insists primarily on the inseparability of body and
+   soul, that is, on the "psychosomatic" unity of the human person,
+   religion leans towards the distinctness of the soul from the body, and
+   thus, including the possibility of favouring a certain dualism between
+   the two. Christian doctrine, however, on the basis of the oneness of
+   the creating act of God, teaches that the spiritual soul is the only
+   form of the human composite, yet, in the light of the doctrine of final
+   resurrection, it allows also for the possibility of a temporary
+   survival of the soul separated from the body. Besides, Christian
+   doctrine understands the immortal dignity of each human being in terms
+   in direct creation of human souls by God, and on this basis
+   unequivocally teaches the priority of the specifically spiritual
+   co-principle of the human beings (cf. Schönborn, 1984).
+--
+   DAVIS, “Christian Belief in the Resurrection of the Body,” New
+   Scholasticism 62 (1988), pp. 72-97; R.C. DALES, The Problem of the
+   Rational Soul in the Thirteenth Century (Leiden - New York E.J. Brill,
+   1995); M. ELIADE, “Soul,” in The Encyclopedia of Religion, edited by M.
+   Eliade, vol. 13 (New York: Macmillan Co., 1987), pp. 426-465; C. FABRO,
+   L’anima: introduzione al problema dell’uomo (Roma: Studium, 1955); A.
+--
+   MARETT, The Threshold of Religion (London Metheun, 1929); C.F.J.
+   MARTIN, “On a Mistake Commonly Made in Accounts of Sixteenth-Century
+   Discussions of the Immortality of the Soul,” American Catholic
+   Philosophical Quarterly 69 (1995), pp. 29-37; J. MOREAU, L’âme du monde
+   de Platon aux stoïciens (Hildesheim - New York: G. Olms, 1981^3; J.
+--
+   PANNENBERG, Systematic Theology, vol. 3 (Edinburgh - Grand Rapids, MI:
+   T. & T. Clark - Eerdmans, 1998); A.C. PEGIS, St. Thomas and the problem
+   of the soul in the thirteenth century (Toronto: Pontifical Institute of
+   Mediaeval Studies, 1976); A.C. PEGIS, “The Separated Soul and its
+   Nature in St. Thomas,” in St. Thomas Aquinas 1274-1974. Commemorative
+   Studies, ed. by A.A. Maurer et al., 2 vols. (Toronto: Pontifical
+--
+   PORCARELLI, “Il problema del destino dell’uomo nei miti greci dell’età
+   arcana,” Sacra Doctrina 43 (1998), pp. 72-116; C. POZO, Teología del
+   más allá (Madrid: BAC, 1980); R. REYNA, “On the Soul: A Philosophical
+   Exploration of the Active Intellect in Averroes, Aristotle and
+   Aquinas,” Thomist 36 (1972), pp. 131-194; E. ROHDE, Psyche. Seelencult
+--
+   (London: Simon and Schuster, 1994); D.C. DENNETT, Consciousness
+   Explained (Boston,MA - Toronto: Little Brown & Co., 1995); G. DEL RE,
+   “The Question of the Soul,” La Nuova Critica 30 (1997), pp. 75-98;J.C.
+   ECCLES, Evolution of the Brain. Creation of the Self (London - New
+   York: Routledge, 1989); G.M. EDELMAN, Neural Darwinism. The Theory of
+--
+   Thomiste 1 (1893), pp. 27-45, 316-327, 725-737; H.E. GARDNER, The
+   Mind’s New Science. A History of the Cognitive Revolution (New York:
+   Basic Books, 1984); P. GEACH, God and the Soul (London: Routledge &
+   Kegan Paul, 1969); S.J. HEIMS, The Cybernetics Group (Cambridge, MA -
+   London: The MIT Press, 1991); M.D. LEROY, L’évolution restreinte aux

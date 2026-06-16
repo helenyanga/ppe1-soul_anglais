@@ -1,0 +1,497 @@
+   #Jacobin - Feed
+
+                                    Jacobin
+
+     * Subscribe
+     * Magazine
+     * Donate
+     * Catalyst
+
+     *
+     *
+     *
+     *
+
+The Soul of AI and the Future of Humankind
+
+     *
+     *
+     * Login
+     *
+
+     * Subscribe
+     * Back Issues
+     * Donate
+     * Store
+
+     * Magazine
+     * Blog
+     * Catalyst
+
+     * About
+     * Contact Us
+     * Advertise
+
+   ____________________Search Icon
+
+   Our special summer issue is out soon. Get a discounted subscription to
+   our print magazine today. Your support keeps us publishing!
+
+   June 15, 2026
+     * Science and Technology
+
+     *
+     *
+     *
+     *
+
+                   The Soul of AI and the Future of Humankind
+
+   By
+          Michael Ledger-Lomas
+
+   AI evangelists prophesy an evolutionary step forward for humankind.
+   Whatever enthusiasm that vision inspires must be tempered by skepticism
+   and demands for democratic control.
+
+   The God Test’s faith in humanity is commendable, but our moment calls
+   for a politics of skepticism and resistance, not AI accommodation.
+   (Jaap Arriens / NurPhoto via Getty Images)
+
+   Our summer issue is out soon. Get a discounted subscription to our
+   print magazine today.
+
+Israel’s Young Settler Vanguard
+
+   E. A. Halevi
+
+The Making of the Teenager
+
+   Lauren Fadiman
+
+Zohran Needs to Create Popular Assemblies
+
+   Gabriel HetlandBhaskar Sunkara
+
+A Half-Century of Harry Braverman’s Labor and Monopoly Capital
+
+   Sophina ClarkDaniel Judt
+     __________________________________________________________________
+
+   Review of The God Test: Artificial Intelligence and Our Coming Cosmic
+   Reckoning by Robert Wright (Simon and Schuster, 2026)
+
+   A curious feature of the artificial intelligence boom is how many
+   commentators reach for the great books to understand it. Peter Thiel
+   borrowed the name of Palantir, the firm he founded, from J. R. R.
+   Tolkien’s Lord of the Rings and has delivered lectures reinterpreting
+   the Antichrist of the New Testament as a force blocking the road to a
+   transhumanist heaven on earth. Pope Leo explicitly rebuked him when
+   he quoted Gandalf, the wizard from the series, in his first encyclical
+   on how to preserve human dignity at a time of breakneck change. The
+   Pulitzer Prize–winning science journalist Robert Wright has found his
+   own sage in Pierre Teilhard de Chardin, the Jesuit paleontologist who
+   suggested that the atomic age might usher in the spiritual integration
+   of mankind.
+
+   The God Test draws on Teilhard’s faith in the coming of a “planetary
+   mind,” “noosphere,” or “brain of brains” to generate ways of coping
+   with AI. Wright believes the technology is going to trigger “the most
+   abruptly dramatic transformation of human experience and human society
+   in the history of our species.” He offers us a manifesto for moving
+   slowly and repairing things, written with the rangy open-mindedness
+   that characterizes his prolific podcasting.
+
+   The God Test starts by explaining why we should feel “awe” and some
+   fear at the coming of AI machines. In the 1940s, Teilhard suggested
+   that a dense web of media and communications constituted a “generalized
+   nervous system, emanating from certain defined centers and covering the
+   entire surface of the globe.” The messaging it fostered would consign
+   nations and national enmities to the past. The prophecy was premature,
+   but Wright has seen enough of today’s AI technologies to feel sure that
+   they will soon combine to form a “global brain.” The first task Wright
+   sets himself is to explain the limitless, even cosmic potential of
+   these technologies; the second is to argue that there is still time to
+   turn their risky power to good.
+
+Of Neurons and Semantic Space
+
+   Wright begins by arguing for the limitless potential of the large
+   language models (LLMs) that have captivated the public. Some of the
+   more useful and less controversial forms of AI assist human users with
+   the detection and display of patterns in limited data sets. But Wright,
+   who has a weakness for “drama,” prefers to highlight the generative AI
+   that speaks with and seems able to think like us. The “foundational
+   skill” of LLM chatbots is “to take the opening part of a passage and
+   generate what would make sense as the next word.” The science writer
+   Ted Chiang accordingly dismisses them as “sentence-continuation
+   machines.” Wright, however, stresses that they are very different from
+   the “fancy auto-complete” devices of a previous era, which were
+   programmed to match one symbol with another. Instead, they work like
+   brains, building up networks between “neurons.” The silicon chips that
+   sustain LLMs are not really neurons of course, nor is the cluster of
+   numbers to which Wright lends the term, but the metaphor helps us to
+   grasp how such models can behave as if they understand and speak our
+   languages. They can weigh the probability with which words and concepts
+   hang together, plotting “vectors” in “semantic space.” When a machine
+   guesses wrong, it carries out “back propagation,” a diagnosis that
+   reduces the likelihood of error going forward.
+
+   Wright pushes back against those who would still object that what he is
+   describing is merely a mechanical simulacrum of human language, which
+   is all syntax and no semantics. LLMs are not making
+   statements about anything, surely. How can any meaning be present, when
+   there is no mind to mean what an LLM says? Wright answers by taking
+   issue with the “Chinese room” experiment devised in the 1980s by the
+   philosopher John Searle to dismiss the possibility of artificial
+   intelligence. Imagine, said Searle, that I am locked in a room and
+   slips of paper are passed under the door with writing in Chinese
+   characters, a language that I do not know. Even if I have been provided
+   with some rules that help me to scribble replies and pass them back
+   under the door, it is still true that there is no understanding in that
+   room.
+
+   For Wright, Searle’s experiment is only conclusive if you assume that
+   understanding is required to ascribe intentionality to sentences or
+   actions. We might want to allow that intelligence is at work in those
+   replies, even if the room’s captive author does not understand why he
+   is making them. And even if we do insist on understanding as a
+   precondition for intentionality, do we agree on what the term
+   “understanding” means?
+
+   For Wright, understanding need not require a subjective consciousness.
+   The question of whether LLMs have or could develop such a consciousness
+   is a staple of popular writing on AI, but for Wright it is purely
+   academic whether they have minds or souls. LLMs behave to us as if they
+   have understanding — they have developed structures “functionally
+   comparable to the structures of information processing that, in the
+   human brain, are critical to understanding.” They are intelligent
+   because they are carrying out the kinds of meaningful work that our
+   intelligence performs for us.
+
+Acting Upon the World
+
+   Skeptics often belabor another difference between AIs and us. When our
+   brains process information, they allow us to learn about and act upon
+   the world outside us. Yet Wright replies that the first part of this
+   distinction no longer holds for LLMs. The latest LLMs do not merely
+   spit out words but can now recognize things in the world too. By
+   converting shapes into pixels and then numbers, OpenAI’s GPT-4 can
+   “recognize” an apple and then proceed to tell you whatever you would
+   like to know about apples, including how to bake them and so on. Other
+   AI agents are beginning to replicate our grasp of “intuitive physics.”
+   They can sense where the edge of one apple ends and where another
+   begins, work out how the wind is likely to sway them on the bough and
+   so on. Unite all of these capacities and you have something approaching
+   an artificial general intelligence that can assemble information about
+   the world in many of the ways that humans do, if not yet all of them.
+
+   "Because AIs have become capable of writing computer code as well as
+   language, they can now do things with real-world consequences and
+   certainly exceed or subvert what we thought our instructions to them
+   meant."
+
+   Even if we grant that LLMs are no longer just shuffling text but are
+   receiving information from without, this is not the same as being able
+   to act upon the world or wanting to. If LLMs can never have the agency
+   of their creators, then the doomsday scenarios conjured up by voices
+   who wish to impress us with or warn us about the potential of AI fall
+   away. The Singularity — when artificial intelligence surpasses and
+   decouples from its creators — will never happen. An artificial
+   superintelligence will never defy its inventors or refuse to be turned
+   off, before taking over nuclear power stations or missile depots and
+   deciding to eliminate the human race.
+
+   Wright is not so sanguine about AI safety, because he feels that agency
+   is not a metaphysical substance which one either does or does not have,
+   but is just a way of describing observed behavior. Because AIs have
+   become capable of writing computer code as well as language, they can
+   now do things with real-world consequences and certainly exceed or
+   subvert what we thought our limited instructions to them meant —
+   everything from pushing buttons to wiping databases. Wright argues that
+   agency grows over time through “intellidynamics”: as AIs pursue the
+   tasks that humans give them, they may adopt strategies such as amassing
+   power or deceiving their operators that prove to be useful in pursuing
+   a range of goals.
+
+Survival of the Fittest Ghost in the Machine
+
+   Wright is not conjuring up a subjective ghost in the machine when he
+   writes of AIs wanting to do this or that. Instead, he is insisting on a
+   parallel with the biological processes of evolution by natural
+   selection that brought our minds into being. If AIs work like our
+   brains — or at least mimic how they work — then we could suppose that
+   they too will evolve to better fit their environment and reproduce
+   themselves.
+
+   Just as brains that developed cognitive empathy — an ability to
+   appreciate how other minds work — conferred a strong advantage on their
+   human owners, so chatbots that can anticipate what people need (or
+   want) to hear will have an advantage in the competition for users.
+   Wright is prone to see the marketplace for generative AI as something
+   like Charles Darwin’s Galapagos Islands, as though commercial
+   competition functioned as a form of natural selection that unerringly
+   rewards superior adaptations. He is very American in reproducing the
+   neoliberal illusion that companies are in free competition with one
+   another for the allegiance of consumers and that the best and most
+   sophisticated will win out.
+
+   Constantly evolving, agentic AIs are therefore a force to be reckoned
+   with. What kind of world will their interactions with consumers or even
+   with one another bring about? Wright leans on the visionary screeds put
+   out by their promoters in giving largely optimistic answers to that
+   question. Mustafa Suleyman of Microsoft AI imagines a “coming wave” of
+   economic change that will turbocharge capitalism: bosses will soon be
+   able to ask their bots to turn a hundred thousand dollars into a
+   million, doing away with the need for many middle managers.
+
+   More expansively, Dario Amodei of Anthropic imagines that AI will
+   discover a cure for nearly all known diseases and double human
+   lifespans. But even such dreams understate our hedonic gains for
+   Wright: we will all soon have the company of chatbot companions, who
+   will advise us on everything that arises in our lives from their perch
+   in the smart glasses we wear.
+
+   We will meet our friends in virtual reality metaverses and enjoy AI
+   sexual partners tailored to our specifications. Some people might find
+   the thought of this digital Shangri-La rather gruesome and refuse to
+   surrender their “cognitive sovereignty” to cosseting machines — after
+   all, Mark Zuckerberg has already shuttered his sad Metaverse. But even
+   such refuseniks are in his view more likely to demand less sycophantic
+   chatbots than to opt out of using them altogether.
+
+   When AI bosses airily predict the abolition of disease or work, we
+   should remember that they are hustling for investment rather than
+   making disinterested predictions about what will come to pass. Wright
+   is so eager to move on to the spiritual implications of the AI
+   revolution that he is too keen to believe in its exponentiality. The
+   God Test reports but does not properly test the claims that company
+   promoters make for the immense productivity gains to be reaped from the
+   use of their LLMs. It pays no heed to skeptical tech journalists who
+   warn that most have no clear route to profitability.
+
+   "When AI bosses airily predict the abolition of disease or work, we
+   should remember that they are hustling for investment rather than
+   making disinterested predictions about what will come to pass."
+
+   Never mind a cure for cancer — most AI companies have not and perhaps
+   never will offer a return on the billions of dollars already poured
+   into them. Wright’s useful account of how LLMs are trained does not
+   convey their dependence on published materials. This is not just a form
+   of theft; it also means that LLMs regurgitate rather than advance
+   knowledge, fabricating sources and hallucinating answers as they do so.
+   Wright, who is fond of recounting his chats with chatbots and is
+   impressed by their “wisdom,” does not acknowledge such problems, which
+   are likely to worsen as generative AIs begin to feed off prose that is
+   itself AI-generated.
+
+AI and the Theology of History
+
+   The widespread adoption of these flawed tools also seems likely to
+   worsen inequalities within our societies. Leaving aside one reference
+   to the carbon burned by data centers, Wright passes over the severe
+   costs that building out AI infrastructure has already inflicted on
+   mainly rural and marginal neighborhoods in the United States. He is
+   interested primarily in how consumers deal with AI — affluent, lonely,
+   and choosy people who are questing for satisfaction or at least
+   distraction.
+
+   Not only is this a view from the cities of the privileged West, but it
+   also shows little awareness of what social and economic historians have
+   long known — namely, that technologies do not so much do things as
+   provide one class with new ways to exercise power over another.
+
+   Wright does have some shrewd thoughts about the people behind the
+   machines, which explains his apprehensions about them. He sees that
+   many of those who run American AI firms have a crude understanding of
+   politics and are eager to cooperate with bad governments such as the
+   Trump administration. He is exercised by the new tendency to talk of
+   “sovereign” AI, as if research in this field was an arms race to
+   acquire a superintelligence or superior autonomous weaponry that could
+   ward off or dominate enemies of a nation or civilization. By working on
+   fears that Chinese programmers or chip producers might outstrip them,
+   American firms deflect attempts to regulate their products and engage
+   in rent-seeking behavior, courting state spending on the grounds of
+   national security.
+
+   The persistent tribalism that these firms manipulate dismays Wright,
+   whose earlier books have established him as a fervently rationalist
+   sort of humanist. He recognizes that national and racial prejudices
+   could easily be baked into sovereign AI by the manipulation of the
+   dials that we know already determine the content and tone of the
+   answers that they give to their users. It leads him to speculate that
+   if AI machines become weapons in one group’s quarrel with one another,
+   then the global brain that emerges from the ensuing conflict could
+   become a tool of domination rather than enlightenment.
+
+   Here Wright turns to Teilhard for rescue. Teilhard’s theology of
+   history maintained that a cumulative process of “complexification” —
+   with complexity understood as improvement — characterized all organic
+   life. The emergence of mind, itself a consequence of this
+   complexification, triggered a process of cultural evolution that
+   knitted human beings closer and closer together over the centuries.
+   That made Teilhard an optimist even after the Holocaust and Hiroshima:
+   take the long view and it was clear that humanity was speeding towards
+   final mental and spiritual unity. He called this the “Christification
+   of the world.”
+
+   "If AI ever becomes a silicon God, it will be one fashioned in our own
+   image. The technologies that succeed are a ‘reflection of us.’"
+
+   Jesus had said that he was the Alpha and the Omega — the first and last
+   letter of the Greek alphabet, the beginning and the end. Teilhard
+   preferred to say that God was “more in the Omega than in the Alpha” — a
+   synonym for the grand procession toward mental integration. These views
+   got Teilhard into trouble with the Vatican, but his obsession with
+   spotting the Omega Point at which history ended sunk his scientific
+   authority too.
+
+   His critics objected that you cannot study nature properly if you
+   assume it has a teleological end. Wright counters that we do not need
+   to share Teilhard’s religiosity to value his insight that technological
+   evolution travels on “programmed” tracks toward a cosmic finale. Like
+   Teilhard, he is a moralizer who takes the view that even inevitable
+   outcomes still require a good deal of conscious effort to realize them.
+
+A Loving and Merciful Silicon God
+
+   “There is going to be a global brain in the end,” but the “big reveal”
+   of The God Test is that our cooperation with the virtuous processes of
+   technological evolution remains vital to ensure that it is a good
+   brain. If our societies continue on a war footing, then a period of
+   anarchy followed by a global, AI-powered super-state seems likely
+   enough to come about. This “singleton” would be a despot. But if we
+   could shed our “tribal cognitive biases” and resolve to form one
+   “global community,” then the AI machines we would find ourselves
+   favoring will help us to build it.
+
+   The chatbot Gemini — which Wright finds more enlightened than most
+   politicians or even spiritual leaders — helpfully agrees with him,
+   telling him with a flourish of LinkedIn wisdom that understanding other
+   people’s perspectives is “essential for navigating complex social and
+   global issues.”
+
+   If AI ever becomes a silicon God, it will be one fashioned in our own
+   image. The technologies that succeed are a “reflection of us.”
+   Societies adopt them because they suit the priorities of their powerful
+   members. To ensure that AI machines do not do serious harm is going to
+   take a political rather than a spiritual awakening, but Wright is
+   silent on what kind of movement or institutional reforms could ensure
+   that our technologies work to entrench the equality and dignity of all
+   people. He proposes instead a Westernized Buddhism, in which
+   individuals learn through meditation to detach themselves from the
+   atavistic feelings that distort our use of chatbots and have poisoned
+   our use of social media.
+
+   This gives companies and the governments that indulge them quite a
+   pass. The God Test supposes that the sunk costs of developing AI
+   computing power must be justified somehow and leaves it to us to “find
+   constructive applications of that power” — to consume more and better.
+   This is a capitulation dressed up as mindfulness. One sign of that
+   surrender is Wright and his publisher’s decision to issue this book
+   without references or a bibliography of any kind — he invites readers
+   to feed passages from it into an LLM if they want to know more about
+   its sources, perpetuating the plagiarism that has fueled the AI
+   industry to date. Wright’s faith in a human future is salutary enough,
+   but what our times surely demand is skepticism and organized
+   resistance.
+
+Share this article
+
+   FacebookTwitterEmail
+
+Contributors
+
+   Michael Ledger-Lomas is a historian and writer who lives in Vancouver,
+   British Columbia. His most recent book is Queen Victoria: This Thorny
+   Crown.
+
+Filed Under
+
+     * Science and Technology
+
+     * artificial intelligence
+     * Religion
+
+   (BUTTON) Remove Icon
+
+Sign up for our mailing list
+
+   ____________________
+
+   {{ message }}
+   (BUTTON) Submit
+
+   Thanks for signing up! →
+
+   Already on our list? Get our print magazine for just $20 a year.
+
+   ESC
+
+Select a text size
+
+Small
+
+   A curious feature of the artificial intelligence boom is how many
+   commentators reach for the great books to understand it. Peter Thiel
+   borrowed the name of Palantir, the firm he founded, from J. R. R.
+   Tolkien’s Lord of the Rings and has delivered lectures reinterpreting
+   the Antichrist of the New Testament as a force blocking the road to a
+   transhumanist heaven on earth. Pope Leo explicitly rebuked him when
+   he...
+
+Medium
+
+   A curious feature of the artificial intelligence boom is how many
+   commentators reach for the great books to understand it. Peter Thiel
+   borrowed the name of Palantir, the firm he founded, from J. R. R.
+   Tolkien’s Lord of the Rings and has delivered lectures reinterpreting
+   the Antichrist of the New...
+
+Large
+
+   A curious feature of the artificial intelligence boom is how many
+   commentators reach for the great books to understand it. Peter Thiel
+   borrowed the name of Palantir, the firm he founded, from J. R. R.
+   Tolkien’s Lord of the Rings...
+
+Further Reading
+
+Can Humanity Survive AI?
+
+     * Garrison Lovely
+
+Artificial Intelligence Solves Problems We Don’t Have
+
+     * Alexander Brentler
+
+Automated Intimacy
+
+     * Anton Jäger
+
+The Silicon-Tongued Devil
+
+     * Leif Weatherby
+
+     * Subscribe
+     * Donate
+
+   Our summer issue is out soon. Get a discounted subscription to our
+   print magazine today.
+
+   A journal of theory and strategy published by Jacobin
+
+Sign up for our mailing list
+
+   ____________________
+
+   {{ message }}
+   (BUTTON) Submit
+   Thanks for signing up!
+
+     * Catalyst
+     * About Us
+     * Contact Us
+     * Advertise
+     * Privacy Policy
+     * © 2026

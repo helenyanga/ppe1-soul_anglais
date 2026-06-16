@@ -1,0 +1,13 @@
+   2nd December 2025 - Link Blog
+
+   Claude 4.5 Opus' Soul Document. Richard Weiss managed to get Claude 4.5
+   Opus to spit out this 14,000 token document which Claude called the
+   "Soul overview". Richard says:
+
+     While extracting Claude 4.5 Opus' system message on its release
+--
+     The model extractions aren't always completely accurate, but most
+     are pretty faithful to the underlying document. It became
+     endearingly known as the 'soul doc' internally, which Claude clearly
+     picked up on, but that's not a reflection of what we'll call it.
+

@@ -1,0 +1,80 @@
+   #English Language & Usage Stack Exchange Feed for question 'Where does
+   the expression "to sell your soul to the devil" originate'
+
+   Skip to main content
+--
+   Explore Stack Internal
+
+Where does the expression "to sell your soul to the devil" originate
+
+   Ask Question
+--
+   There is a song entitled "The Devil came down to Georgia" and describes
+   a fictional event involving a competition where the forfeit is the man
+   will lose his soul to the devil if the devil outplays him. It's a fun
+   piece of music but totally fictional.
+
+--
+   3
+     * 2
+       I don't think that song counts as "selling your soul". I think the
+       most well known example is the Faust legend.
+       Barmar
+--
+       Commented Sep 14, 2021 at 1:11
+     * 1
+       The idea of selling your soul, which is the same as making a pact
+       with Satan, is discussed at SE Mythology:
+       mythology.stackexchange.com/questions/743/…. It turns out the
+--
+
+     1677   A. Horneck Great Law of Consideration iv. 125
+     They sell their Souls to the Devil, for 2, 3, or 400 l.
+
+   We see that the earlier occurrence is in a translation of an Italian
+--
+   is
+
+     to sell his soul, himself, etc., to the devil: to make a contract
+     with the devil ensuring him possession of one's soul after death, as
+     the price of his help in attaining some desired end. Also
+     transferred of one who sacrifices conscience for worldly advantage.
+--
+   Antecedents of the expression in question
+
+   Antecedents to the exact expression "sell [one's] soul to the devil" go
+   back considerably earlier than the OED's circa 1570 citation. A search
+   of Early English Books Online turns up several relevant instances.
+--
+
+   In addition finding texts that use other formulations to express the
+   idea of selling one's soul to the devil, EEBO searches turn up two
+   sources published before 1570 that explicitly use a close version of
+   the modern expression.
+--
+     __________________________________________________________________
+
+   The notion of selling one's soul to an unspecified person or entity
+
+   It also seems worth noting that the notion of selling one's soul
+   (though not specifically to the devil) appears in some fairly early
+   English translations of the Bible and in related religious or
+--
+   Conclusions
+
+   Discussions (in published English writings) of selling one's soul to
+   the devil antedate the earliest instance that the OED cites of the
+   notion of selling one's soul to anyone or anything. That instance,
+   noted in linguisticturn's answer, is from 1570 and refers broadly to
+   "sell[ing] their soules & all for monye"—without specifying the buyer.
+   The earliest instance that the OED cites (according to linguisticturn)
+   of "sell [one's] soul to the devil" was from more than a century later,
+   in 1677.
+
+   Searches of the Early English Books Online database, however, find
+   books from as early as 1509 and 1510 discussing the notion of selling
+   one's soul to diabolical forces (fiends or devils). Moreover Thomas
+   More, writing in 1534, uses essentially the modern phrasing of the
+   expression except that he replaces "to" with "unto": "sell their souls
+   unto the devil." It seems to me that More's use of the phrase deserves
+   a place in the OED's account of its earliest occurrences.

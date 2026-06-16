@@ -1,0 +1,362 @@
+   The pineal gland is a tiny organ in the center of the brain that played
+   an important role in Descartes’ philosophy. He regarded it as the
+   principal seat of the soul and the place in which all our thoughts are
+   formed. In this entry, we discuss Descartes’ views concerning the
+   pineal gland. We also put them into a historical context by describing
+--
+     * 2. Descartes’ Views on the Pineal Gland
+          + 2.1 The Treatise of Man
+          + 2.2 Between the Treatise of Man and The Passions of the Soul
+          + 2.3 The Passions of the Soul
+          + 2.4 Body and Soul
+     * 3. Post-Cartesian Development
+          + 3.1 Reactions to Descartes’ Views
+--
+   posterior one. Second, he thought that these ventricles were filled
+   with “psychic pneuma,” a fine, volatile, airy or vaporous substance
+   which he described as “the first instrument of the soul.” (See Rocca
+   2003 for a detailed description of Galen’s views about the anatomy and
+   physiology of the brain.)
+--
+   important variant was due to Avicenna (980–1037 CE), who devised it by
+   projecting the psychological distinctions found in Aristotle’s On the
+   soul onto the ventricular system of the brain (Rahman 1952).
+
+1.3 Middle Ages
+
+   In a treatise called On the difference between spirit and soul, Qusta
+   ibn Luqa (864–923) combined Nemesius’ ventricular localization doctrine
+   with Galen’s account of a worm-like part of the brain that controls the
+--
+   Latin translation in 1662, and then in the original French in 1664), in
+   a number of letters written in 1640–41, and in his last book, The
+   passions of the soul (1649).
+
+2.1 The Treatise of Man
+--
+   In the Treatise of man, Descartes did not describe man, but a kind of
+   conceptual models of man, namely creatures, created by God, which
+   consist of two ingredients, a body and a soul. “These men will be
+   composed, as we are, of a soul and a body. First I must describe the
+   body on its own; then the soul, again on its own; and finally I must
+   show how these two natures would have to be joined and united in order
+   to constitute men who resemble us” (AT XI:119, CSM I:99).
+   Unfortunately, Descartes did not fulfill all of these promises: he
+   discussed only the body and said almost nothing about the soul and its
+   interaction with the body.
+
+--
+   appetites and passions, and finally the external movements of all the
+   limbs” (AT XI:201, CSM I:108). In scholastic philosophy, these
+   activities were explained by referring to the soul, but Descartes
+   proudly pointed out that he did not have to invoke this notion: “it is
+   not necessary to conceive of this machine as having any vegetative or
+   sensitive soul or other principle of movement and life, apart from its
+   blood and its spirits, which are agitated by the heat of the fire
+   burning continuously in its heart—a fire which has the same nature as
+--
+   H (where the seat of the imagination and the ‘common’ sense is
+   located). That is to say, it is only the latter figures which should be
+   taken to be the forms or images which the rational soul united to this
+   machine will consider directly when it imagines some object or
+   perceives it by the senses” (AT XI:176, CSM I:106). It is to be noted
+   that the reference to the rational soul is a bit premature at this
+   stage of Descartes’ story because he had announced that he would, to
+   begin with, discuss only the functions of bodies without a soul.
+
+   Imagination arises in the same way as perception, except that it is not
+--
+   First, there are movements which are caused by movements of the pineal
+   gland. The pineal gland may be moved in three ways: (1) by “the force
+   of the soul,” provided that there is a soul in the machine; (2) by the
+   spirits randomly swirling about in the ventricles; and (3) as a result
+   of stimulation of the sense organs. The role of the pineal gland is
+--
+   about by motions of the pineal gland.
+
+2.2 Between the Treatise of Man and The Passions of the Soul
+
+   The first remarks about the pineal gland which Descartes published are
+--
+   within our brain with which we could perceive it. Instead we must hold
+   that it is the movements composing this picture which, acting directly
+   upon our soul in so far as it is united to our body, are ordained by
+   nature to make it have such sensations” (AT VI:130, CSM I:167). This
+   remark shows that Descartes tried to avoid the so-called “homuncular
+--
+   January 1640, AT III:19, CSMK 143), but also added some interesting
+   points to the Treatise of man. First, he explained why he regarded it
+   as the principal seat of the rational soul (a point that he had not yet
+   addressed in the Treatise of man): “My view is that this gland is the
+   principal seat of the soul, and the place in which all our thoughts are
+   formed. The reason I believe this is that I cannot find any part of the
+   brain, except this, which is not double. Since we see only one thing
+--
+   that the impressions which enter by the two eyes or by the two ears,
+   and so on, unite with each other in some part of the body before being
+   considered by the soul. Now it is impossible to find any such place in
+   the whole head except this gland; moreover it is situated in the most
+   suitable possible place for this purpose, in the middle of all the
+--
+   “Since it is the only solid part in the whole brain which is single, it
+   must necessarily be the seat of the common sense, i.e., of thought, and
+   consequently of the soul; for one cannot be separated from the other.
+   The only alternative is to say that the soul is not joined immediately
+   to any solid part of the body, but only to the animal spirits which are
+   in its concavities, and which enter it and leave it continually like
+--
+   movable (29 January 1640, AT III:20, CSMK 143). The pituitary gland is,
+   though small, undivided and located in the midline, not the seat of the
+   soul because it is outside the brain and entirely immobile (24 December
+   1640, AT III:263, CSMK 162). The processus vermiformis of the
+   cerebellum (as Descartes called the appendage which Galen had
+--
+   1 April 1640, AT III:48, CSMK 146). Apart from this, there is also
+   another kind of memory, “entirely intellectual, which depends on the
+   soul alone” (1 April 1640, AT III:48, CSMK 146).
+
+   Descartes’ thesis that “the pineal gland is the seat of the sensus
+--
+   destination and is now lost (Lokhorst and Kaitaro 2001).
+
+2.3 The Passions of the Soul
+
+   The most extensive account of Descartes’ pineal neurophysiology and
+   pineal neuropsychology is to be found in his The passions of the soul
+   (1649), the last book that he published.
+
+   The Passions may be seen as a continuation of the Treatise of man,
+   except that the direction of approach is different. The Treatise of man
+   starts with the body and announces that the soul will be treated later.
+   The conclusion would probably have been that we are indistinguishable
+   from the hypothetical “men who resemble us” with which the Treatise of
+   man is concerned and that we are just such machines equipped with a
+   rational soul ourselves. In the Passions, Descartes starts from the
+   other end, with man, and begins by splitting man up into a body and a
+   soul.
+
+   Descartes’ criterion for determining whether a function belongs to the
+   body or soul was as follows: “anything we experience as being in us,
+   and which we see can also exist in wholly inanimate bodies, must be
+   attributed only to our body. On the other hand, anything in us which we
+   cannot conceive in any way as capable of belonging to a body must be
+   attributed to our soul. Thus, because we have no conception of the body
+   as thinking in any way at all, we have reason to believe that every
+   kind of thought present in us belongs to the soul. And since we do not
+   doubt that there are inanimate bodies which can move in as many
+   different ways as our bodies, if not more, and which have as much heat
+--
+
+   Just before he mentioned the pineal gland for the first time, Descartes
+   emphasized that the soul is joined to the whole body: “We need to
+   recognize that the soul is really joined to the whole body, and that we
+   cannot properly say that it exists in any one part of the body to the
+   exclusion of the others. For the body is a unity which is in a sense
+   indivisible because of the arrangement of its organs, these being so
+   related to one another that the removal of any one of them renders the
+   whole body defective. And the soul is of such a nature that it has no
+   relation to extension, or to the dimensions or other properties of the
+   matter of which the body is composed: it is related solely to the whole
+   assemblage of the body’s organs. This is obvious from our inability to
+   conceive of a half or a third of a soul, or of the extension which a
+   soul occupies. Nor does the soul become any smaller if we cut off some
+   part of the body, but it becomes completely separate from the body when
+   we break up the assemblage of the body’s organs” (AT XI:351, CSM
+   I:339). But even though the soul is joined to the whole body,
+   “nevertheless there is a certain part of the body where it exercises
+   its functions more particularly than in all the others. […] The part of
+   the body in which the soul directly exercises its functions is not the
+   heart at all, or the whole of the brain. It is rather the innermost
+   part of the brain, which is a certain very small gland situated in the
+--
+   XI:351, CSM I:340).
+
+   The view that the soul is attached to the whole body is already found
+   in St Augustine’s works: “in each body the whole soul is in the whole
+   body, and whole in each part of it” (On the Trinity, book 6, ch. 6). St
+   Thomas Aquinas accepted this view and explained it by saying that the
+   soul is completely present in each part of the body just as whiteness
+   is, in a certain sense, completely present in each part of the surface
+   of a blank sheet of paper. In deference to Aristotle, he added that
+   this does not exclude that some organs (the heart, for example) are
+   more important with respect to some of the faculties of the soul than
+   others are (Summa theologica, part 1, question 76, art. 8; Quaestiones
+   disputatae de anima, art. 10; Summa contra gentiles, book 2, ch. 72).
+
+   Augustine’s and Aquinas’ thesis sounds reasonable as long as the soul
+   is regarded as the principle of life. The principle of life may well
+   held to be completely present in each living part of the body (just as
+   biologists nowadays say that the complete genome is present in each
+   living cell). However, Descartes did not regard the soul as the
+   principle of life. He regarded it as the principle of thought. This
+   makes one wonder what he may have meant by his remark. What would a
+   principle of thought be doing in the bones and toes? One might think
+   that Descartes meant that, although the pineal gland is the only organ
+   to which the soul is immediately joined, the soul is nevertheless
+   indirectly joined to the rest of the body by means of the threads and
+   spirits in the nerves. But Descartes did not view this as immediate
+   attachment: “I do not think that the soul is so imprisoned in the gland
+   that it cannot act elsewhere. But utilizing a thing is not the same as
+   being immediately joined or united to it” (30 July 1640). Moreover, it
+--
+   objections to the Meditations, 1641, AT VII:441, CSM II:297). He added
+   that he thought that our ideas about gravity are derived from our
+   conception of the soul.
+
+   In the secondary literature one often meets the claim that Descartes
+   maintained that the soul has no spatial extension, but this claim is
+   obviously wrong in view of Descartes’ own assertions. Those who make it
+   may have been misled by Descartes’ quite different claim that extension
+   is not the principal attribute of the soul, where ‘principal’ has a
+   conceptual or epistemic sense.
+
+   Most of the themes discussed in the Treatise of man and in the
+   correspondence of 1640 (quoted above) reappear in the Passions of the
+   soul, as this summary indicates: “the small gland which is the
+   principal seat of the soul is suspended within the cavities containing
+   these spirits, so that it can be moved by them in as many different
+   ways as there are perceptible differences in the objects. But it can
+   also be moved in various different ways by the soul, whose nature is
+   such that it receives as many different impressions—that is, it has as
+   many different perceptions as there occur different movements in this
+   gland. And conversely, the mechanism of our body is so constructed that
+   simply by this gland’s being moved in any way by the soul or by any
+   other cause, it drives the surrounding spirits towards the pores of the
+   brain, which direct them through the nerves to the muscles; and in this
+--
+
+   The description of recollection is more vivid than in the Treatise of
+   man: “Thus, when the soul wants to remember something, this volition
+   makes the gland lean first to one side and then to another, thus
+   driving the spirits towards different regions of the brain until they
+--
+   so the spirits enter into these pores more easily when they come upon
+   them, thereby producing in the gland that special movement which
+   represents the same object to the soul, and makes it recognize the
+   object as the one it wanted to remember” (AT XI:360, CSM I:343).
+
+   The description of the effect of the soul on the body in the causation
+   of bodily movement is also more detailed: “And the activity of the soul
+   consists entirely in the fact that simply by willing something it
+   brings it about that the little gland to which it is closely joined
+--
+   The pineal neurophysiology of the passions or emotions is similar to
+   what is occurring in perception: “the ultimate and most proximate cause
+   of the passions of the soul is simply the agitation by which the
+   spirits move the little gland in the middle of the brain” (AT XI:371,
+   CSM I:349). However, there are some new ingredients which have no
+   parallel in the Treatise of man. For example, in a chapter on the
+   “conflicts that are usually supposed to occur between the lower part
+   and the higher part of the soul,” we read that “the little gland in the
+   middle of the brain can be pushed to one side by the soul and to the
+   other side by the animal spirits” and that conflicting volitions may
+   result in a conflict between “the force with which the spirits push the
+   gland so as to cause the soul to desire something, and the force with
+   which the soul, by its volition to avoid this thing, pushes the gland
+   in a contrary direction” (AT XI:364, CSM I:345).
+
+--
+   minds, or the minds of angels” (AT VIII:65, CSM I:242).
+
+2.4 Body and Soul
+
+   One would like to know a little more about the nature of the soul and
+   its relationship with the body, but Descartes never proposed a final
+   theory about these issues. From passages such as the ones we have just
+   quoted one might infer that he was an interactionist who thought that
+   there are causal interactions between events in the body and events in
+   the soul, but this is by no means the only interpretation that has been
+   put forward. In the secondary literature, one finds at least the
+   following interpretations.
+    1. Descartes was a Scholastic-Aristotelian hylomorphist, who thought
+       that the soul is not a substance but the first actuality or
+       substantial form of the living body (Hoffman 1986, Skirry 2003).
+    2. He was a Platonist who became more and more extreme: “The first
+--
+       dualism breaks man up into two complete substances, joined to
+       another no one knows how: one the one hand, the body which is only
+       geometric extension; on the other, the soul which is only
+       thought—an angel inhabiting a machine and directing it by means of
+       the pineal gland’ (Maritain 1944, p. 179). Not that there is
+--
+       (Cottingham 1985; Cottingham 1986, ch. 5).
+    4. He was a dualistic interactionist, who thought that the rational
+       soul and the body have a causal influence on each other. This is
+       the interpretation one finds in most undergraduate textbooks (e.g.,
+       Copleston 1963, ch. 4).
+--
+       with them” (Keeling 1963, p. 285).
+    6. He was, at least to a certain extent, a non-parallelist because he
+       believed that pure actions of the soul, such as doubting,
+       understanding, affirming, denying and willing, can occur without
+       any corresponding or correlated physiological events taking place
+--
+   behaviorism and functionalism. But even here one could make a case.
+   According to Hoffman (1986) and Skirry (2003), Descartes accepted
+   Aristotle’s theory that the soul is the form of the body. According to
+   Kneale (1963, p. 839), the latter theory was “a sort of behaviourism”.
+   According to Putnam (1975), Nussbaum (1978) and Wilkes (1978), it was
+--
+   man and had not been able to formulate one comprehensive mind-body
+   theory. He sometimes expressed irritation when others reminded him of
+   this. In reply to the questions “how can the soul move the body if it
+   is in no way material, and how can it receive the forms of corporeal
+   objects?” he said that “the most ignorant people could, in a quarter of
+--
+   deal with in a lifetime; and this is why I have not bothered to answer
+   any of them. These questions presuppose amongst other things an
+   explanation of the union between the soul and the body, which I have
+   not yet dealt with at all” (12 January 1646, AT IX:213, CSM II:275). On
+   other occasions, he came close to admitting defeat. “The soul is
+   conceived only by the pure intellect; body (i.e. extension, shapes and
+   motions) can likewise be known by the intellect alone, but much better
+   by the intellect aided by the imagination; and finally what belongs to
+   the union of the soul and the body is known only obscurely by the
+   intellect alone or even by the intellect aided by the imagination, but
+   it is known very clearly by the senses. […] It does not seem to me that
+   the human mind is capable of forming a very distinct conception of both
+   the distinction between the soul and the body and their union; for to
+   do this it is necessary to conceive them as a single thing and at the
+   same time to conceive them as two things; and this is absurd” (28 June
+--
+   because he thought it “very harmful to occupy one’s intellect
+   frequently upon meditating upon [the principles of metaphysics which
+   give us or knowledge of God and our soul], since this would impede it
+   from devoting itself to the functions of the imagination and the
+   senses” (AT III:695, CSMK 228). He advised others to do likewise: “one
+--
+   was still alive, and it was almost universally rejected after his
+   death. Willis wrote about the pineal gland that “we can scarce believe
+   this to be the seat of the Soul, or its chief Faculties to arise from
+   it; because Animals, which seem to be almost quite destitute of
+   Imagination, Memory, and other superior Powers of the Soul, have this
+   Glandula or Kernel large and fair enough” (Willis 1664, ch. 14, as
+   translated in Willis 1681). Steensen (1669) pointed out that Descartes’
+--
+   arteries but veins. He argued that we know next to nothing about the
+   brain. Camper (1784) seems to have been the very last one to uphold the
+   Cartesian thesis that the pineal gland is the seat of the soul,
+   although one may wonder whether he was completely serious. In
+   philosophy, a position called “Cartesian interactionism” immediately
+--
+
+   Some of the reasons that Descartes gave for his view that the pineal
+   gland is the principal seat of the soul died out more slowly than this
+   view itself. For example, his argument that “since our soul is not
+   double, but one and indivisible, […] the part of the body to which it
+   is most immediately joined should also be single and not divided into a
+--
+   instance, still played a role when Lancisi (1712) identified the
+   unpaired corpus callosum in the midline of the brain as the seat of the
+   soul. This view was, however, refuted by Zinn (1749) in a series of
+   split-brain experiments on dogs. Lamettrie and many others explicitly
+   rejected the thesis that the unity of experience requires a
+   corresponding unity of the seat of the soul (Lamettrie 1745, ch. 10).
+
+3.2 Scientific Developments
+--
+       Boston: David Godine.
+     * Wilcox, J.-C., 1985, The Transmission and Influence of Qusta ibn
+       Luqa’s “On the Difference between Spirit and the Soul”, Ph.D.
+       thesis, City University of New York.
+     * Wilkes, K.V., 1978, Physicalism, London: Routledge & Kegan Paul.

@@ -1,0 +1,565 @@
+   #English Language & Usage Stack Exchange Feed for question 'Where does
+   the expression "to sell your soul to the devil" originate'
+
+   Skip to main content
+
+Stack Exchange Network
+
+   Stack Exchange network consists of 184 Q&A communities including Stack
+   Overflow, the largest, most trusted online community for developers to
+   learn, share their knowledge, and build their careers.
+   Visit Stack Exchange (BUTTON)
+   ____________________
+   Loading…
+
+    1.
+          + Tour Start here for a quick overview of the site
+          + Help Center Detailed answers to any questions you might have
+          + Meta Discuss the workings and policies of this site
+          + About Us Learn more about Stack Overflow the company, and our
+            products
+    2.
+    3.
+
+current community
+       (BUTTON)
+          + English Language & Usage
+            help chat
+          + English Language & Usage Meta
+
+your communities
+       Sign up or log in to customize your list.
+
+more stack exchange communities
+       company blog
+    4. (BUTTON)
+    5. Log in
+    6. Sign up
+
+   English Language & Usage
+
+    1.
+         1. Home
+         2. Questions
+         3. Unanswered
+         4. AI Assist
+    2. Tags
+    3.
+    4. Chat
+    5. Users
+    6.
+
+     Stack Internal
+
+   Stack Overflow for Teams is now called Stack Internal. Bring the best
+   of human thought and AI automation together at your work.
+   Try for free Learn more
+
+     Stack Internal
+
+
+
+   Bring the best of human thought and AI automation together at your
+   work. Learn more
+
+   Stack Internal
+
+   Knowledge at work
+
+   Bring the best of human thought and AI automation together at your
+   work.
+   Explore Stack Internal
+
+Where does the expression "to sell your soul to the devil" originate
+
+   Ask Question
+   Asked 5 years, 5 months ago
+   Modified 4 years, 5 months ago
+   Viewed 4k times
+   (BUTTON)
+   7
+   (BUTTON) (BUTTON)
+
+   I understand this is an idiomatic English expression. The expression
+   suggests some sort of pact is made by humans in order to receive
+   diabolical favours.
+
+   There is a song entitled "The Devil came down to Georgia" and describes
+   a fictional event involving a competition where the forfeit is the man
+   will lose his soul to the devil if the devil outplays him. It's a fun
+   piece of music but totally fictional.
+
+   [Devil came down Georgia - Google]
+
+   I know the expression is not found in the Bible, so where does it come
+   from?
+     * expressions
+     * idioms
+     * phrase-origin
+
+   Share
+   Improve this question
+   (BUTTON) Follow
+   edited Sep 14, 2021 at 16:49
+   Sven Yargs's user avatar
+   Sven Yargs
+   175k4040 gold badges483483 silver badges842842 bronze badges
+   asked Jan 14, 2021 at 13:06
+   Lesley's user avatar
+   Lesley
+   1,03999 silver badges1919 bronze badges
+   3
+     * 2
+       I don't think that song counts as "selling your soul". I think the
+       most well known example is the Faust legend.
+       Barmar
+       –  Barmar
+       2021-01-18 17:05:35 +00:00
+       Commented Jan 18, 2021 at 17:05
+     *
+     * 1
+       "It's a fun piece of music but totally fictional." -Citation
+       needed.
+       nnnnnn
+       –  nnnnnn
+       2021-09-14 01:11:56 +00:00
+       Commented Sep 14, 2021 at 1:11
+     * 1
+       The idea of selling your soul, which is the same as making a pact
+       with Satan, is discussed at SE Mythology:
+       mythology.stackexchange.com/questions/743/…. It turns out the
+       earliest record is c.680.
+       Greybeard
+       –  Greybeard
+       2021-09-14 17:28:01 +00:00
+       Commented Sep 14, 2021 at 17:28
+
+   Add a comment  |
+
+3 Answers 3
+
+   Sorted by: Reset to default
+   [Highest score (default)_____]
+   (BUTTON)
+   7
+   (BUTTON) (BUTTON)
+
+   While Wikipedia has an interesting article about the corresponding
+   'cultural motif in European folklore', the Oxford English Dictionary
+   (OED) lists the following as the first two recorded occurrences of the
+   phrase in the English language:
+
+     c1570  Buggbears v. ii, in R. W. Bond Early Plays from Italian
+     (1911) 138 Tra.
+     Loue youe money so well? Ame. What a question ys that? do not very
+     manye sell their soules & all for monye?
+
+     1677   A. Horneck Great Law of Consideration iv. 125
+     They sell their Souls to the Devil, for 2, 3, or 400 l.
+
+   We see that the earlier occurrence is in a translation of an Italian
+   play.
+
+   For completeness, the definition given in the OED (under the verb sell)
+   is
+
+     to sell his soul, himself, etc., to the devil: to make a contract
+     with the devil ensuring him possession of one's soul after death, as
+     the price of his help in attaining some desired end. Also
+     transferred of one who sacrifices conscience for worldly advantage.
+
+   Share
+   Improve this answer
+   (BUTTON) Follow
+   answered Jan 14, 2021 at 15:09
+   linguisticturn's user avatar
+   linguisticturn
+   12.8k22 gold badges3030 silver badges5353 bronze badges
+   3
+     * Which Italian play is the OED referring to?
+       user 66974
+       –  user 66974
+       2021-01-14 19:37:05 +00:00
+       Commented Jan 14, 2021 at 19:37
+     *
+     * @user66974 Apparently The Bugbears.
+       linguisticturn
+       –  linguisticturn
+       2021-01-14 21:07:20 +00:00
+       Commented Jan 14, 2021 at 21:07
+     * Yes, influenced by the comedy “La Spiritata” by Florentine author
+       Antonfrancesco Grazini - books.google.it/books/about/…
+       user 66974
+       –  user 66974
+       2021-01-14 21:34:50 +00:00
+       Commented Jan 14, 2021 at 21:34
+
+   Add a comment  |
+   (BUTTON)
+   4
+   (BUTTON) (BUTTON)
+
+   Antecedents of the expression in question
+
+   Antecedents to the exact expression "sell [one's] soul to the devil" go
+   back considerably earlier than the OED's circa 1570 citation. A search
+   of Early English Books Online turns up several relevant instances.
+
+   From a 1509 translation of Antoine de La Sale, The Fyftene Joyes of
+   Maryage:
+
+     I wyll that ye so god me saue and mende / Your hous frome hym
+     forbede wolde and defende / With whome your frende me falsely hath
+     accused / And you deceyued thus and sore abused / Now be it frely do
+     I gyue or sell / My soule vnto the foulest fende of hell / If euer
+     he to me spake lesse or more
+
+   La Sale died in 1461, so if the English translation is at all close to
+   the original, the idea goes back at least to the middle of the
+   fifteenth century in France.
+
+   From Ihesus. The Floure of the Commaundementes of God with Many
+   Examples and Auctorytees Extracte and Drawen as Well of Holy Scryptures
+   as of Other Doctours and Good Auncient Faders (1510):
+
+     Another example of a man the whiche was so ylle instructe and
+     correcte that he solde his soule and the deuyll bare it awaye with
+     the body.
+
+     The disciple recyteth in his sermōs and sayeth that a man sayd vnto
+     his compaygnons as they dranke at ye tauerne yf they byleued yt
+     there was of sou∣les and that he byleued nothynge and yt he ne had
+     none sene. And that the prestes and prechers had founde that there
+     was of soules in helle for the gayne temporell And that he byleued
+     nothynge. And hys compaygnons affermed yt after the fayth catholyke
+     that there was of soules in hell and in heuen and that the soule of
+     euery persone goeth vnto paradyse or in to hell or in to purgatorie
+     after that it departeth from the body. After he demaūded yf ony
+     wolde bye his soule. And that he sholde sel it. And one of his
+     compaygnons sayd vnto him. I wyl bye it. And it was solde for a
+     quarte of wyne the whiche was incontynent dronke. And there came the
+     deuyl in the fourme of a man the whiche boughte the sayd soule of
+     hym the whiche solde it and payed a quarte of wyne. And whan ye sayd
+     wyne was dronke the deuyl said. Gyue me the soule yt I haue bought
+     for it is myne. And those the whiche were present sayd. It is a
+     thynge iuste that he the whiche byeth possede the thynge bought. And
+     the accursed the whiche had solde his soule sayd that he had not
+     solde the body. And the presence sayd. Whan yt ony selleth his hors
+     he gyueth the coler or halter withall. And incontynent ye seller was
+     estrangled of the deuyl. And before the presence rauisshed the sayd
+     man & bare hym in to hel in body and soule.
+
+   From Here Begynne the the Lanterne of Lyght (1535[?]):
+
+     Howe shulde ye Iurryours scape the fyre of hell that (for a lytle
+     money) wol dampne ye reckneuer whom and dysheryte trwe heyres of
+     theyr iuste herytage for tho that wollen not say the truthe but yf
+     they taken mede sellen Chryste that is truthe and bene worse then
+     the Iewes for they slowen him whan he came to dye but now he
+     reygneth vndedly wher shal thā your payne be? that woll say false
+     wytnes for to catche auauntage of worldly wynnyge? ye sel your selfe
+     your body & your soule into ye fēdes seruice yet may we se more
+     encūbraūce of ye fēdes wirchyng for ther is none offycer temporal
+     nor spūall but that he is redy whan he may to take gyftes of ye
+     poore cōmyns and pyll them euer amonge and elles they shall no
+     peace haue from greuousser oppressynge / as is taken of theyr
+     beastes with corne and other vitayles and other payment get they
+     none / but a whyte stycke tyll they haue lost halfe on halfe with
+     moche more trauayle.
+
+   In this extract, "fēdes" is an archaic print spelling of fiends (or
+   perhaps fiend's).
+     __________________________________________________________________
+
+   Pre-1570 instances of the expression itself
+
+   In addition finding texts that use other formulations to express the
+   idea of selling one's soul to the devil, EEBO searches turn up two
+   sources published before 1570 that explicitly use a close version of
+   the modern expression.
+
+   From Thomas More, A Dialoge of Comfort Against Tribulacion (1534/1553):
+
+     Anthony. ... What goodes of this world can any mā imagine wherof
+     the pleasure and commoditie could be such in a thousande yeare, as
+     were able to recompence that intollerable payn, yt there is to be
+     suffered in one yeare, or in one day, or one howre either: yea &
+     thē what a madnes is it, for that poore pleasure of youre worldly
+     goodes of so few yeares, to cast your self both body and soule into
+     ye euerlasting fier of hel, wherof there is not minished the
+     moūtenaunce of a moment by the lying there the space of an hundreth
+     thousande yeares. And therfore our sauiour in fewe wordes concluded
+     & confuted al these folyes of them, that for the short vse of this
+     worldly substaunce forsake him and his fayth, and sell their soules
+     vnto the deuill for euer, where he sayeth: Quid prodest homini
+     sivniuersum mundum lucretur, anime vero• sue detrimentum patiatur?
+     what auaileth it a mā if he wanne all ye whole world, & lost hys
+     soule?
+
+   I am surprised that the OED didn't cite this instance of the
+   expression, as More's book is well known and the wording he uses is
+   very close to the form that English speakers use today.
+
+   And from Robert Horne, An Answeare Made by Rob. Bishoppe of
+   VVynchester, to a Booke Entituled, The Declaration of Suche Scruples,
+   and Staies of Conscience, Touchinge the Othe of the Supremacy, as M.
+   Iohn Fekenham, by Wrytinge Did Deliuer vnto the L. Bishop of Winchester
+   with His Resolutions Made Thereunto (1566):
+
+     Next, vnto him [Gregory], saith Nauclerus, was Syluester the second
+     placed, by the Emperous appointment. Who being a Coniurer, had solde
+     his soule to the Deuill for this promotion.
+     __________________________________________________________________
+
+   The notion of selling one's soul to an unspecified person or entity
+
+   It also seems worth noting that the notion of selling one's soul
+   (though not specifically to the devil) appears in some fairly early
+   English translations of the Bible and in related religious or
+   religion-themed works. For example, from the Book of Ecclesiasticus in
+   Biblia the Byble (1535):
+
+     There is not a more wicked thinge, then to loue moneye. And why?
+     soch one hath his soule to sell: yet is he but fylthie dōge whyle
+     he lyueth.
+
+   And in "a table of the principle matters conteyned in the Bible"
+   (essentially an index), in a version of the Bible printed for Thomas
+   Barthlet in 1539, the editor includes this entry:
+
+     Couetousnes. ... | There is nothynge more wycked then the couetous
+     man: for he selleth his owne soule Eccle .x. b.
+
+   From Antoni Gilby, "An Admonition to England and Scotland to call
+   Themselves to Repentance," in John Knox, The Appellation of Iohn Knoxe
+   from the Cruell and Most Iniust Sentence Pronounced Against Him by the
+   False Bishoppes and Clergie of Scotland (1558):
+
+     For the communes did continew in malice, and rebellion, in craft and
+     subtiltie, notwithstanding all lawes, that could be deuised for
+     reformation of abuses. The merchants had their own soules to sell
+     for gaines, the gentlemen were becomme Nērods and Gyants, and the
+     nobilitie and coūsile would suffer no rebukes of Gods messēgers
+     thogh theyr offenses were neuer so manifest.
+
+   And from A Newe Mery and Wittie Comedie or Enterlude, Newely Imprinted,
+   Treating vpon the Historie of Iacob and Esau (1568):
+
+     Esau. But the best pottage it was yet that euer was. / It were sinne
+     not to sell ones soule for such geare.
+     __________________________________________________________________
+
+   Conclusions
+
+   Discussions (in published English writings) of selling one's soul to
+   the devil antedate the earliest instance that the OED cites of the
+   notion of selling one's soul to anyone or anything. That instance,
+   noted in linguisticturn's answer, is from 1570 and refers broadly to
+   "sell[ing] their soules & all for monye"—without specifying the buyer.
+   The earliest instance that the OED cites (according to linguisticturn)
+   of "sell [one's] soul to the devil" was from more than a century later,
+   in 1677.
+
+   Searches of the Early English Books Online database, however, find
+   books from as early as 1509 and 1510 discussing the notion of selling
+   one's soul to diabolical forces (fiends or devils). Moreover Thomas
+   More, writing in 1534, uses essentially the modern phrasing of the
+   expression except that he replaces "to" with "unto": "sell their souls
+   unto the devil." It seems to me that More's use of the phrase deserves
+   a place in the OED's account of its earliest occurrences.
+   Share
+   Improve this answer
+   (BUTTON) Follow
+   edited Sep 14, 2021 at 16:32
+   answered Sep 14, 2021 at 6:20
+   Sven Yargs's user avatar
+   Sven Yargs
+   175k4040 gold badges483483 silver badges842842 bronze badges
+
+   Add a comment  |
+   (BUTTON)
+   -2
+   (BUTTON) (BUTTON)
+
+   It came from a 17th century playwrite name Johann Wolfgang Von Goeth
+   who wrote a play called Faust part one and part two about a man who
+   made a deal with devil for infinite knowledge.
+   Share
+   Improve this answer
+   (BUTTON) Follow
+   answered Jul 7, 2021 at 20:29
+   user427687's user avatar
+   user427687
+   511 bronze badge
+   4
+     * 1
+       Goethe was born in 1749 (which makes him an 18th Century playwrite)
+       and Faust wasn't published until 1808, which makes it considerably
+       later than the two examples in the accepted answer.
+       KillingTime
+       –  KillingTime
+       2021-07-07 20:37:54 +00:00
+       Commented Jul 7, 2021 at 20:37
+     *
+     * If you try to document what you are saying with references, I am
+       sure those mistakes will be corrected.
+       fev
+       –  fev
+       2021-07-07 21:00:39 +00:00
+       Commented Jul 7, 2021 at 21:00
+     * Also Christopher Marlowe wrote a play Dr Faustus c. 1590, probably
+       based on an earlier German story
+       en.wikipedia.org/wiki/Doctor_Faustus_(play)
+       Stuart F
+       –  Stuart F
+       2021-07-07 21:43:40 +00:00
+       Commented Jul 7, 2021 at 21:43
+     * Goethe was just producing his own version of the story, which is
+       much much older and finds expression in the mythologies of probably
+       every human culture where the duality of good and evil is
+       personified. Look at Indian religions with their constant demon
+       afflictions, or Ahura-Mazda vs Ahriman, for instance. Even when one
+       tries not to personify, like the Buddha, the religions wind up god-
+       and demon-ridden.There are always those who cheat, even (like
+       Faust) for the best of reasons.
+       John Lawler
+       –  John Lawler
+       2021-07-07 22:04:35 +00:00
+       Commented Jul 7, 2021 at 22:04
+
+   Add a comment  |
+
+You must log in to answer this question.
+
+   Protected question. To answer this question, you need to have at least
+   10 reputation on this site (not counting the association bonus). The
+   reputation requirement helps protect this question from spam and
+   non-answer activity.
+
+   Start asking to get answers
+
+   Find the answer to your question by asking.
+   Ask question
+
+   Explore related questions
+     * expressions
+     * idioms
+     * phrase-origin
+
+   See similar questions with these tags.
+
+     * Featured on Meta
+     * Native Ads Coming To Comments
+     * Opting in to expanding voting access on English Language & Usage SE
+
+Related
+
+   8
+   Where / how did the term "sell them down the river" originate?
+   4
+   Where does the term "three sheets to the wind" originate from?
+   8
+   Where did the idiom "anally retentive" originate?
+   22
+   Where does the phrase "the bee's knees" originate from?
+   6
+   Where does the phrase "the many faces of ..." originate?
+   2
+   What is the meaning of the expression "handsome devil"?
+   10
+   Where does the expression "cod indignation" originate from?
+   7
+   Where did the term "Your Obedient Servant" originate?
+   2
+   Where does the phrase 'Crazy as a Coconut' originate from?
+   4
+   Where did the idiom “That’s gas” originate?
+
+Hot Network Questions
+
+     * unicode-math set to AMS style "𝘍︦ " \digamma, why "𝖥︦ " \updigamma
+       display missing
+     * Rights when using developer tooling written by AI
+     * What does "from the Lord, the Spirit" mean in 2 Corinthians 3:18?
+     * Extraneous result in periodic continued fraction
+     * Superman in Feudal Europe. Ramifications?
+     * Why did the elves abandon their immortality to live among mortals?
+     * How to design station signs for Taiwan Railway in TeX?
+     * How to fix force unslant error in XeTeX/LuaTeX?
+     * Is there a single comprehensible sentence explaining how the mental
+       can arise from the physical using physicalist commitments?
+     * Must all deformations be continuous?
+     * Given six other examples, tell me: What English thing is mean?
+     * Would a tidally locked planet have a higher or lower amount of
+       photosynthesis compared to a planet like Earth?
+     * Does Quine believe a phenomenalist conceptual scheme can be
+       translated into a physicalist conceptual scheme?
+     * Short story - probably by Greg Egan - laborers sing "Dehumanize
+       Yourself"
+     * Early-morning (pre-6 AM) accessible route from Caumartin to Gare du
+       Nord with luggage
+     * Spinors and gamma matrices under Parity Lorentz transformation
+     * Voting procedures
+     * Intuition behind the first exact sequence for Kahler differentials
+     * From Cat to Math
+     * Is this sentence from Hemingway correct?
+     * How does international-to-international transit work in Mexico City
+       airport?
+     * If my story is set in China but written in English, should I use
+       Chinese names or English ones?
+     * What does 褃劲 mean?
+     * Natural English equivalent of the Ukrainian phrase "one thing
+       doesn't interfere with the other"
+
+   more hot questions
+   Question feed
+
+Subscribe to RSS
+
+   Question feed
+
+   To subscribe to this RSS feed, copy and paste this URL into your RSS
+   reader.
+   https://english.stac
+
+English Language & Usage
+
+     * Tour
+     * Help
+     * Chat
+     * Contact
+     * Feedback
+
+Company
+
+     * Stack Overflow
+     * Stack Internal
+     * Stack Data Licensing
+     * Stack Ads
+     * About
+     * Press
+     * Legal
+     * Privacy Policy
+     * Terms of Service
+     * (BUTTON) Cookie Settings
+     * Cookie Policy
+
+Stack Exchange Network
+
+     * Technology
+     * Culture & recreation
+     * Life & arts
+     * Science
+     * Professional
+     * Business
+     * API
+     * Data
+
+     * Blog
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Instagram
+
+   Site design / logo © 2026 Stack Exchange Inc; user contributions
+   licensed under CC BY-SA . rev 2026.6.15.43547
