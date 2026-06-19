@@ -110,7 +110,7 @@
       </div>
     </div>
   <br>
-  <p>Cette définition permettra de voir quelles URLs contiendrait ses variations de sens. Cependant, on se concentrera principalement sur les 3 premières défintions car le type de musique ici est peu pertinent pour notre sujet d'étude étant donné que c'est un genre de musique.</p>
+  <p>Cette définition permettra de voir quelles URLs contiendraient ses variations de sens. Cependant, on se concentrera principalement sur les 3 premières défintions car le type de musique ici est peu pertinent pour notre sujet d'étude étant donné que c'est un genre de musique.</p>
   <br>
   <br>
 
@@ -154,7 +154,7 @@
     <div class="box has-text-centered has-background-dark has-text-white">
       <p class="heading has-text-weight-bold mb-2">Tableau présentant les métadonnées pour le mot "soul" en anglais :</p>
       <nav class="mb-4">
-        <a class="button is-info" href="../tableaux/en_html.html" target="_blank">
+        <a class="button is-info" href="./en/tableaux/en_html.html" target="_blank">
           <span class="icon"><i class="fas fa-table"></i></span>
           <span>Voir le tableau pour l'anglais</span>
         </a>
@@ -167,7 +167,7 @@
         <div class="box has-text-centered has-background-dark has-text-white">
           <p class="heading has-text-weight-bold mb-2">Nuage de mots pour le corpus anglais :</p>
           <figure class="image">
-            <img src="../nuage/wordcloud_soul_en.png" alt="Mots gravitant autour de 'soul'" style="border-radius: 6px;">
+            <img src="./en/nuage/wordcloud_soul_en.png" alt="Mots gravitant autour de 'soul'" style="border-radius: 6px;">
           </figure>
         </div>
       </div>
@@ -182,7 +182,7 @@
     <div class="box has-text-centered has-background-dark has-text-white">
       <p class="heading has-text-weight-bold mb-2">Tableau présentant les métadonnées pour le mot "âme" en français :</p>
       <nav class="mb-4">
-        <a class="button is-info" href="../tableaux/fr_html.html" target="_blank">
+        <a class="button is-info" href="./fra/tableaux/fra_html.html" target="_blank">
           <span class="icon"><i class="fas fa-table"></i></span>
           <span>Voir le tableau pour le français</span>
         </a>
@@ -195,7 +195,7 @@
         <div class="box has-text-centered has-background-dark has-text-white">
           <p class="heading has-text-weight-bold mb-2">Nuage de mots pour le corpus français :</p>
           <figure class="image">
-            <img src="../nuage/wordcloud_soul_fr.png" alt="Mots gravitant autour de 'âme'" style="border-radius: 6px;">
+            <img src="./fra/nuage/images/fra.png" alt="Mots gravitant autour de 'âme'" style="border-radius: 6px;">
           </figure>
         </div>
       </div>
