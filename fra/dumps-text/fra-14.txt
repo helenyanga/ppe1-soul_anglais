@@ -1,6 +1,6 @@
    REFRESH(360 sec):
    file://localhost/home/helena/Documents/plurital/rattrapage/ppe1-soul_an
-   glais/fr_save/aspirations/fra-14.html
+   glais/fra/aspirations/fra-14.html
 
    Protection active
 

@@ -41,9 +41,11 @@ do
     do
         mot=$(echo "$line" | grep -o -i -E '\b(Â|â)me?\b' | head -1)
 
+        # Contexte gauche : on capture le premier bloc (.*) et on appelle \1
         contexte_gauche=$(echo "$line" | sed -E "s/^(.*)\b(Â|â)me?\b.*$/\1/I")
 
-        contexte_droit=$(echo "$line" | sed -E "s/^.*\b(Â|â)me?\b(.*)$/\1/I")
+        # Contexte droit : on change le \1 de la fin par \2 pour appeler la deuxième parenthèse !
+        contexte_droit=$(echo "$line" | sed -E "s/^.*\b(Â|â)me?\b(.*)$/\2/I")
 
         echo -e "  <tr>
                     <td>$contexte_gauche</td>
