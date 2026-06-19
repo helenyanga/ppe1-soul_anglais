@@ -174,9 +174,9 @@
       </div>
     </div>
     <p>Dans le nuage de mots, on observe de nombreux termes qui gravitent autour du mot cible "soul" pour l'anglais. On remarque qu'il y a plus de mots voisins ayant comme catégorie "<strong>nom</strong>" comme "human" (humain), "family" (famille), "food" (nourriture), "consciousness" (conscience) ou encore "group" (group). Les noms qui ressortent le plus montrent que le mot cible "soul" est très fréquement employé à côté de ces mots.</p>
-    <p>On retrouve également, des verbes conjugués tels que "separated" (séparé), "goes" (va), ou encore "come" (viens). Le terme "soul" est aussi proche de ses mots voisins.</p>
+    <p>On retrouve également, des <strong>verbes</strong> conjugués tels que "separated" (séparé), "goes" (va), ou encore "come" (viens). Le terme "soul" est aussi proche de ses mots voisins.</p>
     <br>
-    <p>En outre, on remarque la présence de quelques adjectifs comme "intellectual" (intellectuelle), "sentient" (conscient), "old" (vieux) ou "rational" (rationnel). Le mot "soul" apparaît aussi près de ces mots voisins dans certains contextes et on peut donc supposer que "soul" se comporterait aussi en nom. On peut dire que cette analyse confirme la cette deuxième observation sur les adjectifs.</p></p>
+    <p>En outre, on remarque la présence de quelques <strong>adjectifs</strong> comme "intellectual" (intellectuelle), "sentient" (conscient), "old" (vieux) ou "rational" (rationnel). Le mot "soul" apparaît aussi près de ces mots voisins dans certains contextes et on peut donc supposer que "soul" se comporterait aussi en nom. On peut dire que cette analyse confirme la cette deuxième observation sur les <strong>adjectifs</strong>.</p>
     <br>
     <p>On retrouve le mot "soul" notamment dans les thèmes de <strong>spiritualisation</strong> ou de <strong>religion</strong>, mais aussi dans les domaines de la <strong>psychologie</strong> et de la <strong>phylosophie</strong> avec des URLs qui expliquent ou donnent des définitions sur le terme "soul". Mais ce mot s'étend dans d'autres thèmes comme le <strong>travail</strong> ("work" dans le nuage de mots) par exemple. En effet, durant la recherche d'URLs, le mot "soul" apparaissait dans des <strong>phrases idiomatiqiues</strong> par exemple "travailler avec coeur et âme" qui désigne un dévouement et une passion dans son travail, c'est-à-dire "être enthousiasme et engagé" dans ce qu'il fait. Le mot "soul" peut être employé dans des contextes de nourriture ("food") pour certains URLs trouvés et d'après le visuel du nuage de mots.</p>
     <br>
@@ -207,9 +207,9 @@
         </div>
       </div>
     </div>
-    <p>Tout comme l'anglais, il y a de nombreux mots qui gravitent autour du mot cible "âme" pour le français. Le terme "âme" a de forts voisins ("sans" et "entre") qui sont des prépositions. Par "fort", on entend par là que "âme" est très fréquement utilisé dans des contextes, près des mots "sans" et "entre" contrairement aux mots faisant références à des contextes de définitions (définition", "article", "dictionnaire")</p>
+    <p>Tout comme l'anglais, il y a de nombreux mots qui gravitent autour du mot cible "âme" pour le français. Le terme "âme" a de forts voisins ("sans" et "entre") qui sont des <strong>prépositions</strong>. Par "fort", on entend par là que "âme" est très fréquement utilisé dans des contextes, près des mots "sans" et "entre" contrairement aux mots faisant références à des contextes de définitions (définition", "article", "dictionnaire")</p>
     <br>
-    <p>D'autres mots voisins de catégorie verbe sont proches aussi du mot "âme" ("contient", "pourrait", "appelé") bien que "âme" soit moins présent avec eux. Les mots "particulière", "seule" et "sensible" sont des adjectifs et les mots ayant comme catégorie nom ("corps", "esprit", "âme", "divine",...) aussi qui gravitent autour de "âme". Cela montre que "âme" apparaît souvent dans des sujets de <strong>spiritualisation</strong>. On relarque dans le nuage de mots que "âme" est présent dans des contextes de <strong>religion</strong> ("christianisme", "divine", "éternelle") et de <strong>psychologie</strong> ("recherche", "personnelle", "intellectuelle", "vivante").</p>
+    <p>D'autres mots voisins de catégorie <strong>verbe</strong> sont proches aussi du mot "âme" ("contient", "pourrait", "appelé") bien que "âme" soit moins présent avec eux. Les mots "particulière", "seule" et "sensible" sont des <strong>adjectifs</strong> et les mots ayant comme catégorie nom ("corps", "esprit", "âme", "divine",...) aussi qui gravitent autour de "âme". Cela montre que "âme" apparaît souvent dans des sujets de <strong>spiritualisation</strong>. On relarque dans le nuage de mots que "âme" est présent dans des contextes de <strong>religion</strong> ("christianisme", "divine", "éternelle") et de <strong>psychologie</strong> ("recherche", "personnelle", "intellectuelle", "vivante").</p>
     <br>
     <p>Ainsi, on suppose que le mot "âme" évoque généralement une transition, une sorte de passage entre deux aspects ("entre"). L'emploi du "sans" ferait référence à l'usage comme par exemple, la privatisation ("sans âme", cf. concordancier de l'URL 4). Ces exemples répondent donc à une des définitions du mot "âme" sur la notion d'usage (cf. présentation du projet). On peut relever que le mot "dictionnaire" dans le nuage de mot démontre bien qu'on a tendance à définir l'"âme".</p>
     <br>
@@ -218,14 +218,7 @@
 
   <div id="conclusion" class="box tab-content is-hidden">
     <h2 class="title is-4">Conclusion</h2>
-    <p class="block">Ce projet comporte :</p>
-    <div class="content">
-      <ul>
-        <li>Un tableau HTML créé à partir d'un ou plusieurs scripts bash dont l'objectif du tableau est de recueillir les données suivantes : le lien, le nombre de mots, le nombre d'occurrence...</li>
-        <li>Un nuage de mot afin d'observer dans quel contexte le mot apparaît le plus souvent.</li>
-        <li>Une conclusion visant à décrire les résultats et à répondre à nos hypothèses.</li>
-      </ul>
-    </div>
+    <p class="block">Ce projet répond donc à notre hypothèse (cf. Présentation). En effet, le mot "soul" est employé dans des contextes phylosophiques et psychologiques mais, il ne s'arrête pas là. Il est aussi présent dans divers domaines comme la religion et le travail, notamment dans des expressions figées. On remarque également que le mot "âme" du français suit plus ou moins la même variations que le mot "soul" en anglais. Pour ces deux langues, le mot apparait très fréquemment dans des contextes de religions ou de spiritualisation. Mais les mots voisins de "soul" appartiennent à des catégories noms et adjectival tandis que pour le français, "âme" est plus proches des prépositions.</p>
   </div>
 
 </main>
